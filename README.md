@@ -5,7 +5,7 @@
 - Zvýšení vzdělanosti české společnosti
 - Nabídnutí nových možností sebevzdělávání
 - Diskuze o osnovách základoškolského a gymnaziálního učiva
-- Obsah nepřetržitě zlepšovaný odbornou veřejností
+- Otevřený obsah neustále zlepšovaný odbornou veřejností
 - Podpora nových forem vzdělávání, především svobodných
 
 ## Konkrétní kroky
