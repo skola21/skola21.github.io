@@ -13,6 +13,8 @@
   - Organizační tým
   - Obsahový tým
   - Vývojový tým
+    - Aplikace Škola21 - open source vzdělávací platforma, která zobrazuje otevřený obsah vytvořený komunitou
+    - Editor - open source aplikace pro práci s obsahem
   - Konference a další události týkající se tvorby otevřeného obsahu
   - Vzdělávací centra (odborná výuka, oborové studovny, knihovny, společenské akce, zájmová činnost...)
   - Doplňující cloud službu k aplikaci Škola21, která bude:
