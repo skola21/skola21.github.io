@@ -25,3 +25,7 @@
     - Zprostředkovávat studentům vzdělávacích center Škola21 příme spojení se školou
     - Rodičům umožňovat vhled do vzdělávání jejich dětí, jednoduché nastavení plateb, ...
  
+## Poznámky
+- Příspěvek sdružení = aplikace bez reklamy, příspěvek např. 100 Kč/student/měsíc (1000 Kč za školní rok)? Jaké další výhody?
+- Naši studenti dostanou aplikaci bez reklam automaticky
+- Do budoucna umožnit korespondenčním seminářům přijímat řešení skrze cloud
