@@ -7,6 +7,7 @@
 - Diskuze o osnovách základoškolského a gymnaziálního učiva
 - Otevřený obsah neustále zlepšovaný odbornou veřejností
 - Podpora nových forem vzdělávání, především svobodných
+- Využití "spaced repetition learning" a moderních médií
 
 ## Konkrétní kroky
 - Založení občanského sdružení, které bude provozovat:
