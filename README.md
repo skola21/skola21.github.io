@@ -1169,3 +1169,7 @@
     - HV-9-1-06 orientuje se v proudu znějící hudby, vnímá užité hudebně výrazové prostředky a charakteristické sémantické prvky, chápe jejich význam v hudbě a na základě toho přistupuje k hudebnímu dílu jako k logicky utvářenému celku
     - HV-9-1-07 zařadí na základě individuálních schopností a získaných vědomostí slyšenou hudbu do stylového období a porovnává ji z hlediska její slohové a stylové příslušnosti s dalšími skladbami
     - HV-9-1-08 vyhledává souvislosti mezi hudbou a jinými druhy umění
+
+---
+
+Licence dokumentu: CC-NC-BY-SA
