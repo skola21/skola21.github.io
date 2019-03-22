@@ -48,9 +48,12 @@
     - "Člověk a jeho zdraví" - část
 - Čtvrtá fáze - čtení, psaní, základní počty
 
-## "Jak jde čas" (obsah)
+## "Jak jde čas" (vzdělání dítěte na timeline)
 
-### 0. období - čtení, psaní, počty
+### 0. období (cca 5-7 let)
+- Čtení
+- Psaní
+- Počty
 
 ### 1. období (cca 1. až 3. ročník, 6-9 let)
 
