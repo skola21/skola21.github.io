@@ -34,8 +34,24 @@
 ## Obsah
 - První fáze - 6. až 9. třída ZŠ bez cizích jazyků
   - RVP: http://www.msmt.cz/file/43792/
+  - Vzdělávací oblast "Člověk a příroda"
 - Druhá fáze - 4. a 5. třída ZŠ bez cizích jazyků
   - Vzdělávací oblast "Člověk a jeho svět" - zbytek, většina 1.-3. ročník
+    - "Rozmanitost přírody" - část
+    - "Člověk a jeho zdraví" - část
 - Třetí fáze - 1. až 3. třída ZŠ bez cizích jazyků
   - Vzdělávací oblast "Člověk a jeho svět"
+    - "Místo, kde žijeme"
+    - "Lidé kolem nás"
+    - "Lidé a čas"
+    - "Rozmanitost přírody" - část
+    - "Člověk a jeho zdraví" - část
 - Čtvrtá fáze - čtení, psaní, základní počty
+
+## "Jak jde čas" (obsah)
+
+### 1. období (cca 1. až 3. ročník, 6-9 let)
+
+### 2. období (cca 4. a 5. ročník, 10-11 let)
+
+### 3. období (cca 6. až 9. ročník, 12-15 let)
