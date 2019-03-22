@@ -35,5 +35,7 @@
 - První fáze - 6. až 9. třída ZŠ bez cizích jazyků
   - RVP: http://www.msmt.cz/file/43792/
 - Druhá fáze - 4. a 5. třída ZŠ bez cizích jazyků
+  - Vzdělávací oblast "Člověk a jeho svět" - zbytek, většina 1.-3. ročník
 - Třetí fáze - 1. až 3. třída ZŠ bez cizích jazyků
+  - Vzdělávací oblast "Člověk a jeho svět"
 - Čtvrtá fáze - čtení, psaní, základní počty
