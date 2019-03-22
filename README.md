@@ -50,12 +50,12 @@
 
 ## Očekávané výstupu dle RVP chronologicky
 
-### 0. období (cca 5-7 let)
+### Příprava (cca 5-7 let)
 - Čtení
 - Psaní
 - Počty
 
-### 1. období (cca 1. až 3. ročník, 6-9 let)
+### 1. období 1. stupně (1. až 3. ročník, cca 6-9 let)
 - **Člověk a jeho svět** - *Místo, kde žijeme* - 1. období
   - ČJS-3-1-01 vyznačí v jednoduchém plánu místo svého bydliště a školy, cestu na určené místo a rozliší možná nebezpečí v nejbližším okolí
   - ČJS-3-1-02 začlení svou obec (město) do příslušného kraje a obslužného centra ČR, pozoruje a popíše změny v nejbližším okolí, obci (městě)
@@ -76,6 +76,10 @@
   - ČJS-3-4-03 provádí jednoduché pokusy u skupiny známých látek, určuje jejich společné a rozdílné vlastnosti a změří základní veličiny pomocí jednoduchých nástrojů a přístrojů
 
 - **Člověk a jeho svět** - *Člověk a jeho zdraví* - 1. období
+  - ČJS-3-5-01 uplatňuje základní hygienické, režimové a jiné zdravotně preventivní návyky s využitím elementárních znalostí o lidském těle; projevuje vhodným chováním a činnostmi vztah ke zdraví
+  - ČJS-3-5-02 rozezná nebezpečí různého charakteru, využívá bezpečná místa pro hru a trávení volného času; uplatňuje základní pravidla bezpečného chování účastníka silničního provozu, jedná tak, aby neohrožoval zdraví své a zdraví jiných
+  - ČJS-3-5-03 chová se obezřetně při setkání s neznámými jedinci, odmítne komunikaci, která je mu nepříjemná; v případě potřeby požádá o pomoc pro sebe i pro jiné; ovládá způsoby komunikace s operátory tísňových linek
+  - ČJS-3-5-04 reaguje adekvátně na pokyny dospělých při mimořádných událostech
 
 - **Jazyk a jazyková komunikace** - *Český jazyk a literatura* - Komunikační a slohová výchova - 1. období
   - ČJL-3-1-01 plynule čte s porozuměním texty přiměřeného rozsahu a náročnosti
@@ -138,7 +142,7 @@
 
 
 
-### 2. období (cca 4. a 5. ročník, 10-11 let)
+### 2. období 1. stupně (4. a 5. ročník, cca 10-11 let)
 - **Člověk a jeho svět** - *Místo, kde žijeme* - 2. období
   - ČJS-5-1-01 určí a vysvětlí polohu svého bydliště nebo pobytu vzhledem ke krajině a státu
   - ČJS-5-1-02 určí světové strany v přírodě i podle mapy, orientuje se podle nich a řídí se podle zásad bezpečného pohybu a pobytu v přírodě
@@ -171,6 +175,14 @@
   - ČJS-5-4-07 založí jednoduchý pokus, naplánuje a zdůvodní postup, vyhodnotí a vysvětlí výsledky pokusu
 
 - **Člověk a jeho svět** - *Člověk a jeho zdraví* - 2. období
+  - ČJS-5-5-01 využívá poznatků o lidském těle k vysvětlení základních funkcí jednotlivých orgánových soustav a k podpoře vlastního zdravého způsobu života
+  - ČJS-5-5-02 rozlišuje jednotlivé etapy lidského života a orientuje se ve vývoji dítěte před a po jeho narození
+  - ČJS-5-5-03 účelně plánuje svůj čas pro učení, práci, zábavu a odpočinek podle vlastních potřeb s ohledem na oprávněné nároky jiných osob
+  - ČJS-5-5-04 uplatňuje účelné způsoby chování v situacích ohrožujících zdraví a v modelových situacích simulujících mimořádné události; vnímá dopravní situaci, správně ji vyhodnotí a vyvodí odpovídající závěry pro své chování jako chodec a cyklista
+  - ČJS-5-5-05 předvede v modelových situacích osvojené jednoduché způsoby odmítání návykových látek
+  - ČJS-5-5-06 uplatňuje základní dovednosti a návyky související s podporou zdraví a jeho preventivní ochranou
+  - ČJS-5-5-07 rozpozná život ohrožující zranění; ošetří drobná poranění a zajistí lékařskou pomoc
+  - ČJS-5-5-08 uplatňuje ohleduplné chování k druhému pohlaví a orientuje se v bezpečných způsobech sexuálního chování mezi chlapci a děvčaty v daném věku
 
 - **Jazyk a jazyková komunikace** - *Český jazyk a literatura* - Komunikační a slohová výchova - 2. období
   - ČJL-5-1-01 čte s porozuměním přiměřeně náročné texty potichu i nahlas
@@ -230,18 +242,76 @@
   - ICT-5-1-02 respektuje pravidla bezpečné práce s hardwarem i softwarem a postupuje poučeně v případě jejich závady
   - ICT-5-1-03 chrání data před poškozením, ztrátou a zneužitím
 
+- **Informační a komunikační technologie** - Vyhledávání informací a komunikace - 1. a 2. období
+  - ICT-5-2-01 při vyhledávání informací na internetu používá jednoduché a vhodné cesty
+  - ICT-5-2-02 vyhledává informace na portálech, v knihovnách a databázích
+  - ICT-5-2-03 komunikuje pomocí internetu či jiných běžných komunikačních zařízení
 
+- **Informační a komunikační technologie** - Zpracování a využití informací - 1. a 2. období
+  - ICT-5-3-01 pracuje s textem a obrázkem v textovém a grafickém editoru
+  
 
 ### Očekávané výstupy po 5. ročníku
 
+### 2. stupeň (6. až 9. ročník, cca 12-15 let)
+- **Jazyk a jazyková komunikace**
+TODO matematika
+TODO informatika
+TODO dějepis
 
-### 3. období (cca 6. až 9. ročník, 12-15 let)
-- **Člověk a příroda** - *Přírodopis*
+- **Matematika a její aplikace**
 
-- **Člověk a příroda** - *Zeměpis*
+- **Informační a komunikační technologie** 
 
-- **Člověk a příroda** - *Fyzika*
+- **Člověk a společnost** - *Výchova k občanství* - Člověk ve společnosti
+  - VO-9-1-01 objasní účel důležitých symbolů našeho státu a způsoby jejich používání
+  - VO-9-1-02 rozlišuje projevy vlastenectví od projevů nacionalismu
+  - VO-9-1-03 zdůvodní nepřijatelnost vandalského chování a aktivně proti němu vystupuje
+  - VO-9-1-04 zhodnotí nabídku kulturních institucí a cíleně z ní vybírá akce, které ho zajímají
+  - VO-9-1-05 kriticky přistupuje k mediálním informacím, vyjádří svůj postoj k působení propagandy a reklamy na veřejné mínění a chování lidí
+  - VO-9-1-06 zhodnotí a na příkladech doloží význam vzájemné solidarity mezi lidmi, vyjádří své možnosti, jak může v případě potřeby pomáhat lidem v nouzi a jak pomoci v situacích ohrožení a obrany státu
+  - VO-9-1-07 uplatňuje vhodné způsoby chování a komunikace v různých životních situacích, případné neshody či konflikty s druhými lidmi řeší nenásilným způsobem
+  - VO-9-1-08 objasní potřebu tolerance ve společnosti, respektuje kulturní zvláštnosti i odlišné názory, zájmy, způsoby chování a myšlení lidí, zaujímá tolerantní postoje k menšinám
+  - VO-9-1-09 rozpoznává netolerantní, rasistické, xenofobní a extremistické projevy v chování lidí a zaujímá aktivní postoj proti všem projevům lidské nesnášenlivosti
+  - VO-9-1-10 posoudí a na příkladech doloží přínos spolupráce lidí při řešení konkrétních úkolů a dosahování některých cílů v rodině, ve škole, v obci
 
-- **Člověk a příroda** - *Chemie*
+- **Člověk a společnost** - *Výchova k občanství* - Člověk jako jedinec
+- VO-9-2-01 objasní, jak může realističtější poznání a hodnocení vlastní osobnosti a potenciálu pozitivně ovlivnit jeho rozhodování, vztahy s druhými lidmi i kvalitu života
+- VO-9-2-02 posoudí vliv osobních vlastností na dosahování individuálních i společných cílů, objasní význam vůle při dosahování cílů a překonávání překážek
+- VO-9-2-03 rozpoznává projevy záporných charakterových vlastností u sebe i u druhých lidí, kriticky hodnotí a vhodně koriguje své chování a jednání
+- VO-9-2-04 popíše, jak lze usměrňovat a kultivovat charakterové a volní vlastnosti, rozvíjet osobní přednosti, překonávat osobní nedostatky a pěstovat zdravou sebedůvěru
+
+- **Člověk a společnost** - *Výchova k občanství* - Člověk, stát a hospodářství
+  - VO-9-3-01 rozlišuje a porovnává různé formy vlastnictví, včetně duševního vlastnictví, a způsoby jejich ochrany, uvede příklady
+  - VO-9-3-02 sestaví jednoduchý rozpočet domácnosti, uvede hlavní příjmy a výdaje, rozliší pravidelné a jednorázové příjmy a výdaje, zváží nezbytnost jednotlivých výdajů v hospodaření domácnosti, objasní princip vyrovnaného, schodkového a přebytkového rozpočtu domácnosti, dodržuje zásady hospodárnosti a vyhýbá se rizikům při hospodaření s penězi
+  - VO-9-3-03 na příkladech ukáže vhodné využití různých nástrojů hotovostního a bezhotovostního placení, uvede příklady použití debetní a kreditní platební karty, vysvětlí jejich omezení
+  - VO-9-3-04 vysvětlí, jakou funkci plní banky a jaké služby občanům nabízejí, vysvětlí význam úroku placeného a přijatého, uvede nejčastější druhy pojištění a navrhne, kdy je využít
+  - VO-9-3-05 uvede a porovná nejobvyklejší způsoby nakládání s volnými prostředky a způsoby krytí deficitu
+  - VO-9-3-06 na příkladu chování kupujících a prodávajících vyloží podstatu fungování trhu, objasní vliv nabídky a poptávky na tvorbu ceny a její změny, na příkladu ukáže tvorbu ceny jako součet nákladů, zisku a DPH, popíše vliv inflace na hodnotu peněz
+  - VO-9-3-07 rozlišuje, ze kterých zdrojů pocházejí příjmy státu a do kterých oblastí stát směruje své výdaje, uvede příklady dávek a příspěvků, které ze státního rozpočtu získávají občané
+  - VO-9-3-08 rozlišuje a porovnává úlohu výroby, obchodu a služeb, uvede příklady jejich součinnosti
+  
+- **Člověk a společnost** - *Výchova k občanství* - Člověk, stát a právo
+  - VO-9-4-01 rozlišuje nejčastější typy a formy států a na příkladech porovná jejich znaky
+  - VO-9-4-02 rozlišuje a porovnává úkoly jednotlivých složek státní moci ČR i jejich orgánů a institucí, uvede příklady institucí a orgánů, které se podílejí na správě obcí, krajů a státu
+  - VO-9-4-03 objasní výhody demokratického způsobu řízení státu pro každodenní život občanů
+  - VO-9-4-04 vyloží smysl voleb do zastupitelstev v demokratických státech a uvede příklady, jak mohou výsledky voleb ovlivňovat každodenní život občanů
+  - VO-9-4-05 přiměřeně uplatňuje svá práva včetně práv spotřebitele a respektuje práva a oprávněné zájmy druhých lidí, posoudí význam ochrany lidských práv a svobod, rozumí povinnostem občana při zajišťování obrany státu
+  - VO-9-4-06 objasní význam právní úpravy důležitých vztahů – vlastnictví, pracovní poměr, manželství
+  - VO-9-4-07 provádí jednoduché právní úkony a chápe jejich důsledky, uvede příklady některých smluv upravujících občanskoprávní vztahy – osobní přeprava, koupě, oprava či pronájem věci
+  - VO-9-4-08 dodržuje právní ustanovení, která se na něj vztahují, a uvědomuje si rizika jejich porušování
+  - VO-9-4-09 rozlišuje a porovnává úkoly orgánů právní ochrany občanů, uvede příklady jejich činnosti a spolupráce při postihování trestných činů
+  - VO-9-4-10 rozpozná protiprávní jednání, rozliší přestupek a trestný čin, uvede jejich příklady
+  - VO-9-4-11 diskutuje o příčinách a důsledcích korupčního jednání
+
+- **Člověk a společnost** - *Výchova k občanství* - Mezinárodní vztahy, globální svět
+  - VO-9-5-01 popíše vliv začlenění ČR do EU na každodenní život občanů, uvede příklady práv občanů ČR v rámci EU i možných způsobů jejich uplatňování
+  - VO-9-5-02 uvede některé významné mezinárodní organizace a společenství, k nimž má vztah ČR, posoudí jejich význam ve světovém dění a popíše výhody spolupráce mezi státy, včetně zajišťování obrany státu a účasti v zahraničních misích
+  - VO-9-5-03 uvede příklady některých projevů globalizace, porovná jejich klady a zápory
+  - VO-9-5-04 uvede některé globální problémy současnosti, vyjádří na ně svůj osobní názor a popíše jejich hlavní příčiny i možné důsledky pro život lidstva
+  - VO-9-5-05 objasní souvislosti globálních a lokálních problémů, uvede příklady možných projevů a způsobů řešení globálních problémů na lokální úrovni – v obci, regionu
+  - VO-9-5-06 uvede příklady mezinárodního terorismu a zaujme vlastní postoj ke způsobům jeho potírání, objasní roli ozbrojených sil ČR při zajišťování obrany státu a při řešení krizí nevojenského charakteru
+
+- **Člověk a příroda** - *Výchova k občanství* - Mezinárodní vztahy, globální svět
 
 ### Očekávané výstupy po 9. ročníku
