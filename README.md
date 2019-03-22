@@ -109,12 +109,21 @@ Neolitická revoluce
 ##### Antické Řecko
 
 ##### Antický Řím
+- 395 Rozdělení Římské říše
+- 476 Pád Západořímské říše
 
 ##### Raný středověk
+- 626 Obléhání Konstantinopole
+- 626 Vznik Sámovy říše
+- 833 Vznik Velkomoravské říše
+- 862-863 Vznik hlaholice (nejstarší slovanské písmo)
+- 863 Příchod Cyrila a Metoděje
+
 
 ##### Pozdní středověk
-
-###### Objev Ameriky
+- Cca 1440 Vynález knihtisku
+- 1453 Pád Konstantinopole
+- 1492 Objev Ameriky
 
 ##### Novověk
 
