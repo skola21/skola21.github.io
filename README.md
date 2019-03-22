@@ -8,6 +8,7 @@
 - Otevřený obsah neustále zlepšovaný odbornou veřejností
 - Podpora nových forem vzdělávání, především svobodných
 - Využití "spaced repetition learning" a moderních médií
+- Koncept "výuka dějinami" - celá výuka se točí okolo časové linky historie
 
 ## Konkrétní kroky
 - Založení občanského sdružení, které bude provozovat:
