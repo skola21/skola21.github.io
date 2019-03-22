@@ -521,6 +521,14 @@
     - D-9-8-04 prokáže základní orientaci v problémech současného světa
 
 - **Člověk a společnost** - *Výchova k občanství* - Člověk ve společnosti
+  - Učivo
+    - naše škola – život ve škole, práva a povinnosti žáků, význam a činnost žákovské samosprávy, společná pravidla a normy; vklad vzdělání pro život
+    - naše obec, region, kraj – důležité instituce, zajímavá a památná místa, významní rodáci, místní tradice; ochrana kulturních památek, přírodních objektů a majetku
+    - naše vlast – pojem vlasti a vlastenectví; zajímavá a památná místa, co nás proslavilo, významné osobnosti; státní symboly, státní svátky, významné dny
+    - kulturní život – rozmanitost kulturních projevů, kulturní hodnoty, kulturní tradice; kulturní instituce; masová kultura, prostředky masové komunikace, masmédia
+    - lidská setkání – přirozené a sociální rozdíly mezi lidmi, rovnost a nerovnost, rovné postavení mužů a žen; lidská solidarita, pomoc lidem v nouzi, potřební lidé ve společnosti
+    - vztahy mezi lidmi – osobní a neosobní vztahy, mezilidská komunikace; konflikty v mezilidských vztazích, problémy lidské nesnášenlivosti
+    - zásady lidského soužití – morálka a mravnost, svoboda a vzájemná závislost, pravidla chování; dělba práce a činností, výhody spolupráce lidí
   - Očekávané výstupy
     - VO-9-1-01 objasní účel důležitých symbolů našeho státu a způsoby jejich používání
     - VO-9-1-02 rozlišuje projevy vlastenectví od projevů nacionalismu
@@ -534,6 +542,10 @@
     - VO-9-1-10 posoudí a na příkladech doloží přínos spolupráce lidí při řešení konkrétních úkolů a dosahování některých cílů v rodině, ve škole, v obci
 
 - **Člověk a společnost** - *Výchova k občanství* - Člověk jako jedinec
+  - Učivo
+    - podobnost a odlišnost lidí – projevy chování, rozdíly v prožívání, myšlení a jednání; osobní vlastnosti, dovednosti a schopnosti, charakter; vrozené předpoklady, osobní potenciál
+    - vnitřní svět člověka – vnímání, prožívání, poznávání a posuzování skutečnosti, sebe i druhých lidí, systém osobních hodnot, sebehodnocení; stereotypy v posuzování druhých lidí
+    - osobní rozvoj – životní cíle a plány, životní perspektiva, adaptace na životní změny, sebezměna; význam motivace, aktivity, vůle a osobní kázně při seberozvoji
   - Očekávané výstupy
     - VO-9-2-01 objasní, jak může realističtější poznání a hodnocení vlastní osobnosti a potenciálu pozitivně ovlivnit jeho rozhodování, vztahy s druhými lidmi i kvalitu života
     - VO-9-2-02 posoudí vliv osobních vlastností na dosahování individuálních i společných cílů, objasní význam vůle při dosahování cílů a překonávání překážek
@@ -541,6 +553,13 @@
     - VO-9-2-04 popíše, jak lze usměrňovat a kultivovat charakterové a volní vlastnosti, rozvíjet osobní přednosti, překonávat osobní nedostatky a pěstovat zdravou sebedůvěru
 
 - **Člověk a společnost** - *Výchova k občanství* - Člověk, stát a hospodářství
+  - Učivo
+    - majetek, vlastnictví – formy vlastnictví; hmotné a duševní vlastnictví, jejich ochrana; hospodaření s penězi, majetkem a různými formami vlastnictví
+    - peníze – funkce a podoby peněz, formy placení;
+    - hospodaření – rozpočet domácnosti, úspory, investice, úvěry, splátkový prodej, leasing; rozpočet státu, typy rozpočtu a jejich odlišnosti; význam daní
+    - banky a jejich služby – aktivní a pasivní operace, úročení, pojištění, produkty finančního trhu pro investování a pro získávání prostředků
+    - výroba, obchod, služby – jejich funkce a návaznost
+    - principy tržního hospodářství – nabídka, poptávka, trh; tvorba ceny, inflace; podstata fungování trhu; nejčastější právní formy podnikání
   - Očekávané výstupy
     - VO-9-3-01 rozlišuje a porovnává různé formy vlastnictví, včetně duševního vlastnictví, a způsoby jejich ochrany, uvede příklady
     - VO-9-3-02 sestaví jednoduchý rozpočet domácnosti, uvede hlavní příjmy a výdaje, rozliší pravidelné a jednorázové příjmy a výdaje, zváží nezbytnost jednotlivých výdajů v hospodaření domácnosti, objasní princip vyrovnaného, schodkového a přebytkového rozpočtu domácnosti, dodržuje zásady hospodárnosti a vyhýbá se rizikům při hospodaření s penězi
@@ -552,6 +571,14 @@
     - VO-9-3-08 rozlišuje a porovnává úlohu výroby, obchodu a služeb, uvede příklady jejich součinnosti
   
 - **Člověk a společnost** - *Výchova k občanství* - Člověk, stát a právo
+  - Učivo
+    - právní základy státu – znaky státu, typy a formy státu; státní občanství ČR; Ústava ČR; složky státní moci, jejich orgány a instituce, obrana státu
+    - státní správa a samospráva – orgány a instituce státní správy a samosprávy, jejich úkoly
+    - principy demokracie – znaky demokratického způsobu rozhodování a řízení státu; politický pluralismus, sociální dialog a jejich význam; význam a formy voleb do zastupitelstev
+    - lidská práva – základní lidská práva, práva dítěte, jejich ochrana; úprava lidských práv a práv dětí v dokumentech; poškozování lidských práv, šikana, diskriminace
+    - právní řád České republiky – význam a funkce právního řádu, orgány právní ochrany občanů, soustava soudů; právní norma, předpis, publikování právních předpisů
+    - protiprávní jednání – druhy a postihy protiprávního jednání včetně korupce, trestní postižitelnost; porušování předpisů v silničním provozu, porušování práv k duševnímu vlastnictví
+    - právo v každodenním životě – význam právních vztahů; důležité právní vztahy a závazky z nich vyplývající; základní práva spotřebitele; styk s úřady
   - Očekávané výstupy
     - VO-9-4-01 rozlišuje nejčastější typy a formy států a na příkladech porovná jejich znaky
     - VO-9-4-02 rozlišuje a porovnává úkoly jednotlivých složek státní moci ČR i jejich orgánů a institucí, uvede příklady institucí a orgánů, které se podílejí na správě obcí, krajů a státu
@@ -566,6 +593,10 @@
     - VO-9-4-11 diskutuje o příčinách a důsledcích korupčního jednání
 
 - **Člověk a společnost** - *Výchova k občanství* - Mezinárodní vztahy, globální svět
+  - Učivo
+    - evropská integrace – podstata, význam, výhody; Evropská unie a ČR
+    - mezinárodní spolupráce – ekonomická, politická a bezpečnostní spolupráce mezi státy, její výhody; významné mezinárodní organizace (Rada Evropy, NATO, OSN aj.)
+    - globalizace – projevy, klady a zápory; významné globální problémy včetně válek a terorismu, možnosti jejich řešení
   - Očekávané výstupy
     - VO-9-5-01 popíše vliv začlenění ČR do EU na každodenní život občanů, uvede příklady práv občanů ČR v rámci EU i možných způsobů jejich uplatňování
     - VO-9-5-02 uvede některé významné mezinárodní organizace a společenství, k nimž má vztah ČR, posoudí jejich význam ve světovém dění a popíše výhody spolupráce mezi státy, včetně zajišťování obrany státu a účasti v zahraničních misích
@@ -574,7 +605,338 @@
     - VO-9-5-05 objasní souvislosti globálních a lokálních problémů, uvede příklady možných projevů a způsobů řešení globálních problémů na lokální úrovni – v obci, regionu
     - VO-9-5-06 uvede příklady mezinárodního terorismu a zaujme vlastní postoj ke způsobům jeho potírání, objasní roli ozbrojených sil ČR při zajišťování obrany státu a při řešení krizí nevojenského charakteru
 
-- **Člověk a příroda** - *Výchova k občanství* - Mezinárodní vztahy, globální svět
+- **Člověk a příroda** - *Fyzika* - Látky a tělesa
+  - Učivo
+    - měřené veličiny – délka, objem, hmotnost, teplota a její změna, čas
+    - skupenství látek – souvislost skupenství látek s jejich částicovou stavbou; difuze
   - Očekávané výstupy
-  
+    - F-9-1-01 změří vhodně zvolenými měřidly některé důležité fyzikální veličiny charakterizující látky a tělesa
+    - F-9-1-02 uvede konkrétní příklady jevů dokazujících, že se částice látek neustále pohybují a vzájemně na sebe působí
+    - F-9-1-03 předpoví, jak se změní délka či objem tělesa při dané změně jeho teploty
+    - F-9-1-04 využívá s porozuměním vztah mezi hustotou, hmotností a objemem při řešení praktických problémů
+
+- **Člověk a příroda** - *Fyzika* - Pohyb těles; síly
+  - Učivo
+    - pohyby těles – pohyb rovnoměrný a nerovnoměrný; pohyb přímočarý a křivočarý
+    - gravitační pole a gravitační síla – přímá úměrnost mezi gravitační silou a hmotností tělesa
+    - tlaková síla a tlak – vztah mezi tlakovou silou, tlakem a obsahem plochy, na niž síla působí
+    - třecí síla – smykové tření, ovlivňování velikosti třecí síly v praxi
+    - výslednice dvou sil stejných a opačných směrů
+    - Newtonovy zákony – první, druhý (kvalitativně), třetí
+    - rovnováha na páce a pevné kladce
+  - Očekávané výstupy
+    - F-9-2-01 rozhodne, jaký druh pohybu těleso koná vzhledem k jinému tělesu
+    - F-9-2-02 využívá s porozuměním při řešení problémů a úloh vztah mezi rychlostí, dráhou a časem u rovnoměrného pohybu těles
+    - F-9-2-03 změří velikost působící síly
+    - F-9-2-04 určí v konkrétní jednoduché situaci druhy sil působících na těleso, jejich velikosti, směry a výslednici
+    - F-9-2-05 využívá Newtonovy zákony pro objasňování či předvídání změn pohybu těles při působení stálé výsledné síly v jednoduchých situacích
+    - F-9-2-06 aplikuje poznatky o otáčivých účincích síly při řešení praktických problémů
+
+- **Člověk a příroda** - *Fyzika* - Mechanické vlastnosti tekutin
+  - Učivo
+    - Pascalův zákon – hydraulická zařízení
+    - hydrostatický a atmosférický tlak – souvislost mezi hydrostatickým tlakem, hloubkou a hustotou kapaliny; souvislost atmosférického tlaku s některými procesy v atmosféře
+    - Archimédův zákon – vztlaková síla; potápění, vznášení se a plování těles v klidných tekutinách
+  - Očekávané výstupy
+    - F-9-3-01 využívá poznatky o zákonitostech tlaku v klidných tekutinách pro řešení konkrétních praktických problémů
+    - F-9-3-02 předpoví z analýzy sil působících na těleso v klidné tekutině chování tělesa v ní
+    
+- **Člověk a příroda** - *Fyzika* - Energie
+  - Učivo
+    - formy energie – pohybová a polohová energie; vnitřní energie; elektrická energie a výkon; výroba a přenos elektrické energie; jaderná energie, štěpná reakce, jaderný reaktor, jaderná elektrárna; ochrana lidí před radioaktivním zářením
+    - přeměny skupenství – tání a tuhnutí, skupenské teplo tání; vypařování a kapalnění; hlavní faktory ovlivňující vypařování a teplotu varu kapaliny
+    - obnovitelné a neobnovitelné zdroje energie
+  - Očekávané výstupy
+    - F-9-4-01 určí v jednoduchých případech práci vykonanou silou a z ní určí změnu energie tělesa
+    - F-9-4-02 využívá s porozuměním vztah mezi výkonem, vykonanou prací a časem
+    - F-9-4-03 využívá poznatky o vzájemných přeměnách různých forem energie a jejich přenosu při řešení konkrétních problémů a úloh
+    
+- **Člověk a příroda** - *Fyzika* - Zvukové děje
+  - Učivo
+    - vlastnosti zvuku – látkové prostředí jako podmínka vzniku šíření zvuku, rychlost šíření zvuku v různých prostředích; odraz zvuku na překážce, ozvěna; pohlcování zvuku; výška zvukového tónu
+  - Očekávané výstupy
+    - F-9-5-01 rozpozná ve svém okolí zdroje zvuku a kvalitativně analyzuje příhodnost daného prostředí pro šíření zvuku
+    - F-9-5-02 posoudí možnosti zmenšování vlivu nadměrného hluku na životní prostředí
+
+- **Člověk a příroda** - *Fyzika* - Elektromagnetické a světelné děje
+  - Učivo
+    - elektrický obvod – zdroj napětí, spotřebič, spínač
+    - elektrické a magnetické pole – elektrická a magnetická síla; elektrický náboj; tepelné účinky elektrického proudu; elektrický odpor; stejnosměrný elektromotor; transformátor; bezpečné chování při práci s elektrickými přístroji a zařízeními
+    - vlastnosti světla – zdroje světla; rychlost světla ve vakuu a v různých prostředích; stín, zatmění Slunce a Měsíce; zobrazení odrazem na rovinném, dutém a vypuklém zrcadle (kvalitativně); zobrazení lomem tenkou spojkou a rozptylkou (kvalitativně); rozklad bílého světla hranolem
+  - Očekávané výstupy
+    - F-9-6-01 sestaví správně podle schématu elektrický obvod a analyzuje správně schéma reálného obvodu
+    - F-9-6-02 rozliší stejnosměrný proud od střídavého a změří elektrický proud a napětí
+    - F-9-6-03 rozliší vodič, izolant a polovodič na základě analýzy jejich vlastností
+    - F-9-6-04 využívá Ohmův zákon pro část obvodu při řešení praktických problémů
+    - F-9-6-05 využívá prakticky poznatky o působení magnetického pole na magnet a cívku s proudem a o vlivu změny magnetického pole v okolí cívky na vznik indukovaného napětí v ní
+    - F-9-6-06 zapojí správně polovodičovou diodu
+    - F-9-6-07 využívá zákona o přímočarém šíření světla ve stejnorodém optickém prostředí
+
+- **Člověk a příroda** - *Fyzika* - Vesmír
+  - Učivo
+    - sluneční soustava – její hlavní složky; měsíční fáze
+    - hvězdy – jejich složení
+  - Očekávané výstupy
+    - F-9-7-01 objasní (kvalitativně) pomocí poznatků o gravitačních silách pohyb planet kolem Slunce a měsíců planet kolem planet
+    - F-9-7-02 odliší hvězdu od planety na základě jejich vlastností
+
+- **Člověk a příroda** - *Chemie* - Pozorování, pokud a bezpečnost práce
+  - Učivo
+    - vlastnosti látek – hustota, rozpustnost, tepelná a elektrická vodivost, vliv atmosféry na vlastnosti a stav látek
+    - zásady bezpečné práce – ve školní pracovně (laboratoři) i v běžném životě
+    - nebezpečné látky a přípravky – H-věty, P-věty, piktogramy a jejich význam
+    - mimořádné události – havárie chemických provozů, úniky nebezpečných látek
+  - Očekávané výstupy
+    - CH-9-1-01 určí společné a rozdílné vlastnosti látek
+    - CH-9-1-02 pracuje bezpečně s vybranými dostupnými a běžně používanými látkami a hodnotí jejich rizikovost; posoudí nebezpečnost vybraných dostupných látek, se kterými zatím pracovat nesmí
+    - CH-9-1-03 objasní nejefektivnější jednání v modelových příkladech havárie s únikem nebezpečných látek
+    
+- **Člověk a příroda** - *Chemie* - Směsi
+  - Učivo
+    - směsi – různorodé, stejnorodé roztoky; hmotnostní zlomek a koncentrace roztoku; koncentrovanější, zředěnější, nasycený a nenasycený roztok; vliv teploty, míchání a plošného obsahu pevné složky na rychlost jejího rozpouštění do roztoku; oddělování složek směsí (usazování, filtrace, destilace, krystalizace, sublimace)
+    - voda – destilovaná, pitná, odpadní; výroba pitné vody; čistota vody
+    - vzduch – složení, čistota ovzduší, ozonová vrstva
+  - Očekávané výstupy
+    - CH-9-2-01 rozlišuje směsi a chemické látky
+    - CH-9-2-02 vypočítá složení roztoků, připraví prakticky roztok daného složení
+    - CH-9-2-03 vysvětlí základní faktory ovlivňující rozpouštění pevných látek
+    - CH-9-2-04 navrhne postupy a prakticky provede oddělování složek směsí o známém složení; uvede příklady oddělování složek v praxi
+    - CH-9-2-05 rozliší různé druhy vody a uvede příklady jejich výskytu a použití
+    - CH-9-2-06 uvede příklady znečišťování vody a vzduchu v pracovním prostředí a domácnosti, navrhne nejvhodnější preventivní opatření a způsoby likvidace znečištění
+
+- **Člověk a příroda** - *Chemie* - Částicové složení látek a chemické prvky
+  - Učivo
+    - částicové složení látek – molekuly, atomy, atomové jádro, protony, neutrony, elektronový obal a jeho změny v chemických reakcích, elektrony
+    - prvky – názvy, značky, vlastnosti a použití vybraných prvků, skupiny a periody v periodické soustavě chemických prvků; protonové číslo
+    - chemické sloučeniny – chemická vazba, názvosloví jednoduchých anorganických a organických sloučenin
+  - Očekávané výstupy
+    - CH-9-3-01 používá pojmy atom a molekula ve správných souvislostech
+    - CH-9-3-02 rozlišuje chemické prvky a chemické sloučeniny a pojmy užívá ve správných souvislostech
+    - CH-9-3-03 orientuje se v periodické soustavě chemických prvků, rozpozná vybrané kovy a nekovy a usuzuje na jejich možné vlastnosti
+
+- **Člověk a příroda** - *Chemie* - Chemické reakce
+  - Učivo
+    - chemické reakce – zákon zachování hmotnosti, chemické rovnice, látkové množství, molární hmotnost
+    - klasifikace chemických reakcí – slučování, neutralizace, reakce exotermní a endotermní
+    - faktory ovlivňující rychlost chemických reakcí – teplota, plošný obsah povrchu výchozích látek, katalýza
+    - chemie a elektřina – výroba elektrického proudu chemickou cestou
+  - Očekávané výstupy
+    - CH-9-4-01 rozliší výchozí látky a produkty chemických reakcí, uvede příklady prakticky důležitých chemických reakcí, provede jejich klasifikaci a zhodnotí jejich využívání
+    - CH-9-4-02 přečte chemické rovnice a s užitím zákona zachování hmotnosti vypočítá hmotnost výchozí látky nebo produktu
+    - CH-9-4-03 aplikuje poznatky o faktorech ovlivňujících průběh chemických reakcí v praxi a při předcházení jejich nebezpečnému průběhu
+
+- **Člověk a příroda** - *Chemie* - Anorganické sloučeniny
+  - Učivo
+    - oxidy – názvosloví, vlastnosti a použití vybraných prakticky významných oxidů
+    - kyseliny a hydroxidy – kyselost a zásaditost roztoků; vlastnosti, vzorce, názvy a použití vybraných prakticky významných kyselin a hydroxidů
+    - soli kyslíkaté a nekyslíkaté – vlastnosti, použití vybraných solí, oxidační číslo, názvosloví, vlastnosti a použití vybraných prakticky významných halogenidů
+  - Očekávané výstupy
+    - CH-9-5-01 porovná vlastnosti a použití vybraných prakticky významných oxidů, kyselin, hydroxidů a solí a posoudí vliv významných zástupců těchto látek na životní prostředí
+    - CH-9-5-02 vysvětlí vznik kyselých dešťů, uvede jejich vliv na životní prostředí a uvede opatření, kterými jim lze předcházet
+    - CH-9-5-03 orientuje se na stupnici pH, změří reakci roztoku univerzálním indikátorovým papírkem a uvede příklady uplatňování neutralizace v praxi
+
+- **Člověk a příroda** - *Chemie* - Organické sloučeniny
+  - Učivo
+    - uhlovodíky – příklady v praxi významných alkanů, uhlovodíků s vícenásobnými vazbami a aromatických uhlovodíků
+    - paliva – ropa, uhlí, zemní plyn, průmyslově vyráběná paliva
+    - deriváty uhlovodíků – příklady v praxi významných alkoholů a karboxylových kyselin
+    - přírodní látky – zdroje, vlastnosti a příklady funkcí bílkovin, tuků, sacharidů a vitaminů v lidském těle
+  - Očekávané výstupy
+    - CH-9-6-01 rozliší nejjednodušší uhlovodíky, uvede jejich zdroje, vlastnosti a použití
+    - CH-9-6-02 zhodnotí užívání fosilních paliv a vyráběných paliv jako zdrojů energie a uvede příklady produktů průmyslového zpracování ropy
+    - CH-9-6-03 rozliší vybrané deriváty uhlovodíků, uvede jejich zdroje, vlastnosti a použití
+    - CH-9-6-04 orientuje se ve výchozích látkách a produktech fotosyntézy a koncových produktech biochemického zpracování, především bílkovinách, tucích, sacharidech
+    - CH-9-6-05 určí podmínky postačující pro aktivní fotosyntézu
+    - CH-9-6-06 uvede příklady zdrojů bílkovin, tuků, sacharidů a vitaminů
+
+- **Člověk a příroda** - *Chemie* - Chemie a společnostw
+  - Učivo
+    - chemický průmysl v ČR – výrobky, rizika v souvislosti se životním prostředím, recyklace surovin, koroze
+    - průmyslová hnojiva
+    - tepelně zpracovávané materiály – cement, vápno, sádra, keramika
+    - plasty a syntetická vlákna – vlastnosti, použití, likvidace
+    - detergenty, pesticidy a insekticidy
+    - hořlaviny – význam tříd nebezpečnosti
+    - léčiva a návykové látky
+  - Očekávané výstupy
+    - CH-9-7-01 zhodnotí využívání prvotních a druhotných surovin z hlediska trvale udržitelného rozvoje na Zemi
+    - CH-9-7-02 aplikuje znalosti o principech hašení požárů na řešení modelových situací z praxe
+    - CH-9-7-03 orientuje se v přípravě a využívání různých látek v praxi a jejich vlivech na životní prostředí a zdraví člověka
+    
+- **Člověk a příroda** - *Přírodopis* - Obecná biologie a genetika
+  - Učivo
+    - vznik, vývoj, rozmanitost, projevy života a jeho význam – výživa, dýchání, růst, rozmnožování, vývin, reakce na podněty; názory na vznik života
+    - základní struktura života – buňky, pletiva, tkáně, orgány, orgánové soustavy, organismy jednobuněčné a mnohobuněčné
+    - význam a zásady třídění organismů
+    - dědičnost a proměnlivost organismů – podstata dědičnosti a přenos dědičných informací, gen, křížení
+    - viry a bakterie – výskyt, význam a praktické využití
+  - Očekávané výstupy
+    - P-9-1-01 rozliší základní projevy a podmínky života, orientuje se v daném přehledu vývoje organismů
+    - P-9-1-02 popíše základní rozdíly mezi buňkou rostlin, živočichů a bakterií a objasní funkci základních organel
+    - P-9-1-03 rozpozná, porovná a objasní funkci základních orgánů (orgánových soustav) rostlin i živočichů
+    - P-9-1-04 třídí organismy a zařadí vybrané organismy do říší a nižších taxonomických jednotek
+    - P-9-1-05 vysvětlí podstatu pohlavního a nepohlavního rozmnožování a jeho význam z hlediska dědičnosti
+    - P-9-1-06 uvede příklady dědičnosti v praktickém životě a příklady vlivu prostředí na utváření organismů
+    - P-9-1-07 uvede na příkladech z běžného života význam virů a bakterií v přírodě i pro člověka
+
+- **Člověk a příroda** - *Přírodopis* - Biologie hub
+  - Učivo
+    - houby bez plodnic – základní charakteristika, pozitivní a negativní vliv na člověka a živé organismy
+    - houby s plodnicemi – stavba, výskyt, význam, zásady sběru, konzumace a první pomoc při otravě houbami
+    - lišejníky – stavba, symbióza, výskyt a význam
+  - Očekávané výstupy
+    - P-9-2-01 rozpozná naše nejznámější jedlé a jedovaté houby s plodnicemi a porovná je podle charakteristických znaků
+    - P-9-2-02 vysvětlí různé způsoby výživy hub a jejich význam v ekosystémech a místo v potravních řetězcích
+    - P-9-2-03 objasní funkci dvou organismů ve stélce lišejníků
+
+- **Člověk a příroda** - *Přírodopis* - Biologie rostlin
+  - Učivo
+    - anatomie a morfologie rostlin – stavba a význam jednotlivých částí těla vyšších rostlin (kořen, stonek, list, květ, semeno, plod)
+    - fyziologie rostlin – základní principy fotosyntézy, dýchání, růstu, rozmnožování
+    - systém rostlin – poznávání a zařazování daných zástupců běžných druhů řas, mechorostů, kapraďorostů (plavuně, přesličky, kapradiny), nahosemenných a krytosemenných rostlin (jednoděložných a dvouděložných), jejich vývoj a využití hospodářsky významných zástupců
+    - význam rostlin a jejich ochrana
+  - Očekávané výstupy
+    - P-9-3-01 odvodí na základě pozorování uspořádání rostlinného těla od buňky přes pletiva až k jednotlivým orgánům
+    - P-9-3-02 porovná vnější a vnitřní stavbu jednotlivých orgánů a uvede praktické příklady jejich funkcí a vztahů v rostlině jako celku
+    - P-9-3-03 vysvětlí princip základních rostlinných fyziologických procesů a jejich využití při pěstování rostlin
+    - P-9-3-04 rozlišuje základní systematické skupiny rostlin a určuje jejich význačné zástupce pomocí klíčů a atlasů
+    - P-9-3-05 odvodí na základě pozorování přírody závislost a přizpůsobení některých rostlin podmínkám prostředí
+
+- **Člověk a příroda** - *Přírodopis* - Biologie živočichů
+  - Učivo
+    - stavba těla, stavba a funkce jednotlivých částí těla – živočišná buňka, tkáně, orgány, orgánové soustavy, organismy jednobuněčné a mnohobuněčné, rozmnožování
+    - vývoj, vývin a systém živočichů – významní zástupci jednotlivých skupin živočichů – prvoci, bezobratlí (žahavci, ploštěnci, hlísti, měkkýši, kroužkovci, členovci), strunatci (paryby, ryby, obojživelníci, plazi, ptáci, savci)
+    - rozšíření, význam a ochrana živočichů – hospodářsky a epidemiologicky významné druhy, péče o vybrané domácí živočichy, chov domestikovaných živočichů, živočišná společenstva
+    - projevy chování živočichů
+  - Očekávané výstupy
+    - P-9-4-01 porovná základní vnější a vnitřní stavbu vybraných živočichů a vysvětlí funkci jednotlivých orgánů
+    - P-9-4-02 rozlišuje a porovná jednotlivé skupiny živočichů, určuje vybrané živočichy, zařazuje je do hlavních taxonomických skupin
+    - P-9-4-03 odvodí na základě pozorování základní projevy chování živočichů v přírodě, na příkladech objasní jejich způsob života a přizpůsobení danému prostředí
+    - P-9-4-04 zhodnotí význam živočichů v přírodě i pro člověka; uplatňuje zásady bezpečného chování ve styku se živočichy
+    
+- **Člověk a příroda** - *Přírodopis* - Biologie člověka
+  - Učivo
+    - fylogeneze a ontogeneze člověka – rozmnožování člověka
+    - anatomie a fyziologie – stavba a funkce jednotlivých částí lidského těla, orgány, orgánové soustavy (opěrná, pohybová, oběhová, dýchací, trávicí, vylučovací a rozmnožovací, řídicí), vyšší nervová činnost, hygiena duševní činnosti
+    - nemoci, úrazy a prevence – příčiny, příznaky, praktické zásady a postupy při léčení běžných nemocí; závažná poranění a život ohrožující stavy, epidemie
+    - životní styl – pozitivní a negativní dopad prostředí a životního stylu na zdraví člověka
+  - Očekávané výstupy
+    - P-9-5-01 určí polohu a objasní stavbu a funkci orgánů a orgánových soustav lidského těla, vysvětlí jejich vztahy
+    - P-9-5-02 orientuje se v základních vývojových stupních fylogeneze člověka
+    - P-9-5-03 objasní vznik a vývin nového jedince od početí až do stáří
+    - P-9-5-04 rozlišuje příčiny, případně příznaky běžných nemocí a uplatňuje zásady jejich prevence a léčby, objasní význam zdravého způsobu života
+    - P-9-5-05 aplikuje první pomoc při poranění a jiném poškození těla
+
+- **Člověk a příroda** - *Přírodopis* - Neživá příroda
+  - Učivo
+    - Země – vznik a stavba Země
+    - nerosty a horniny – vznik, vlastnosti, kvalitativní třídění, praktický význam a využití zástupců, určování jejich vzorků; principy krystalografie
+    - vnější a vnitřní geologické procesy – příčiny a důsledky
+    - půdy – složení, vlastnosti a význam půdy pro výživu rostlin, její hospodářský význam pro společnost, nebezpečí a příklady její devastace, možnosti a příklady rekultivace
+    - vývoj zemské kůry a organismů na Zemi – geologické změny, vznik života, výskyt typických organismů a jejich přizpůsobování prostředí
+    - geologický vývoj a stavba území ČR – Český masiv, Karpaty
+    - podnebí a počasí ve vztahu k životu – význam vody a teploty prostředí pro život, ochrana a využití přírodních zdrojů, význam jednotlivých vrstev ovzduší pro život, vlivy znečištěného ovzduší a klimatických změn na živé organismy a na člověka
+    - mimořádné události způsobené přírodními vlivy – příčiny vzniku mimořádných událostí, přírodní světové katastrofy, nejčastější mimořádné přírodní události v ČR (povodně, větrné bouře, sněhové kalamity, laviny, náledí) a ochrana před nimi
+  - Očekávané výstupy
+    - P-9-6-01 objasní vliv jednotlivých sfér Země na vznik a trvání života
+    - P-9-6-02 rozpozná podle charakteristických vlastností vybrané nerosty a horniny s použitím určovacích pomůcek
+    - P-9-6-03 rozlišuje důsledky vnitřních a vnějších geologických dějů, včetně geologického oběhu hornin i oběhu vody
+    - P-9-6-04 porovná význam půdotvorných činitelů pro vznik půdy, rozlišuje hlavní půdní typy a půdní druhy v naší přírodě
+    - P-9-6-05 rozlišuje jednotlivá geologická období podle charakteristických znaků
+    - P-9-6-06 uvede význam vlivu podnebí a počasí na rozvoj různých ekosystémů a charakterizuje mimořádné události způsobené výkyvy počasí a dalšími přírodními jevy, jejich doprovodné jevy a možné dopady i ochranu před nimi
+
+- **Člověk a příroda** - *Přírodopis* - Základy ekologie
+  - Učivo
+    - organismy a prostředí – vzájemné vztahy mezi organismy, mezi organismy a prostředím; populace, společenstva, přirozené a umělé ekosystémy, potravní řetězce, rovnováha v ekosystému
+    - ochrana přírody a životního prostředí – globální problémy a jejich řešení, chráněná území
+  - Očekávané výstupy
+    - P-9-7-01 uvede příklady výskytu organismů v určitém prostředí a vztahy mezi nimi
+    - P-9-7-02 rozlišuje a uvede příklady systémů organismů – populace, společenstva, ekosystémy; na příkladu objasní základní princip existence živých a neživých složek ekosystému
+    - P-9-7-03 vysvětlí podstatu jednoduchých potravních řetězců v různých ekosystémech a zhodnotí jejich význam
+    - P-9-7-04 uvede příklady kladných i záporných vlivů člověka na životní prostředí a příklady narušení rovnováhy ekosystému
+
+- **Člověk a příroda** - *Přírodopis* - Praktické poznávání přírody
+  - Učivo
+    - praktické metody poznávání přírody – pozorování lupou a mikroskopem (případně dalekohledem), zjednodušené určovací klíče a atlasy, založení herbáře a sbírek, ukázky odchytu některých živočichů, jednoduché rozčleňování rostlin a živočichů
+    - významní biologové a jejich objevy
+  - Očekávané výstupy
+    - P-9-8-01 aplikuje praktické metody poznávání přírody
+    - P-9-8-02 dodržuje základní pravidla bezpečnosti práce a chování při poznávání živé a neživé přírody
+
+- **Člověk a příroda** - *Zeměpis* - Geografické informace, zdroje dat, kartografie a topografie
+  - Učivo
+    - komunikační geografický a kartografický jazyk – vybrané obecně používané geografické, topografické a kartografické pojmy; základní topografické útvary: důležité body, výrazné liniové (čárové) útvary, plošné útvary a jejich kombinace: sítě, povrchy, ohniska – uzly; hlavní kartografické produkty: plán, mapa; jazyk mapy: symboly, smluvené značky, vysvětlivky; statistická data a jejich grafické vyjádření, tabulky; základní informační geografická média a zdroje dat
+    - geografická kartografie a topografie – glóbus, měřítko glóbusu, zeměpisná síť, poledníky a rovnoběžky, zeměpisné souřadnice, určování zeměpisné polohy v zeměpisné síti; měřítko a obsah plánů a map, orientace plánů a map vzhledem ke světovým stranám; praktická cvičení a aplikace s dostupnými kartografickými produkty v tištěné i elektronické podobě
+  - Očekávané výstupy
+    - Z-9-1-01 organizuje a přiměřeně hodnotí geografické informace a zdroje dat z dostupných kartografických produktů a elaborátů, z grafů, diagramů, statistických a dalších informačních zdrojů
+    - Z-9-1-02 používá s porozuměním základní geografickou, topografickou a kartografickou terminologii
+    - Z-9-1-03 přiměřeně hodnotí geografické objekty, jevy a procesy v krajinné sféře, jejich určité pravidelnosti, zákonitosti a odlišnosti, jejich vzájemnou souvislost a podmíněnost, rozeznává hranice (bariéry) mezi podstatnými prostorovými složkami v krajině
+    - Z-9-1-04 vytváří a využívá osobní myšlenková (mentální) schémata a myšlenkové (mentální) mapy pro orientaci v konkrétních regionech, pro prostorové vnímání a hodnocení míst, objektů, jevů a procesů v nich, pro vytváření postojů k okolnímu světu
+    
+- **Člověk a příroda** - *Zeměpis* - Přírodní obraz Země
+  - Učivo
+    - Země jako vesmírné těleso – tvar, velikost a pohyby Země, střídání dne a noci, střídání ročních období, světový čas, časová pásma, pásmový čas, datová hranice, smluvený čas
+    - krajinná sféra – přírodní sféra, společenská a hospodářská sféra, složky a prvky přírodní sféry
+    - systém přírodní sféry na planetární úrovni – geografické pásy, geografická (šířková) pásma, výškové stupně
+    - systém přírodní sféry na regionální úrovni – přírodní oblasti
+  - Očekávané výstupy
+    - Z-9-2-01 zhodnotí postavení Země ve vesmíru a srovnává podstatné vlastnosti Země s ostatními tělesy sluneční soustavy
+    - Z-9-2-02 prokáže na konkrétních příkladech tvar planety Země, zhodnotí důsledky pohybů Země na život lidí a organismů
+    - Z-9-2-03 rozlišuje a porovnává složky a prvky přírodní sféry, jejich vzájemnou souvislost a podmíněnost, rozeznává, pojmenuje a klasifikuje tvary zemského povrchu
+    - Z-9-2-04 porovná působení vnitřních a vnějších procesů v přírodní sféře a jejich vliv na přírodu a na lidskou společnost
+
+- **Člověk a příroda** - *Zeměpis* - Regiony světa
+  - Učivo
+    - světadíly, oceány, makroregiony světa – určující a porovnávací kritéria; jejich přiměřená charakteristika z hlediska přírodních a socioekonomických poměrů s důrazem na vazby a souvislosti (přírodní oblasti, podnebné oblasti, sídelní oblasti, jazykové oblasti, náboženské oblasti, kulturní oblasti)
+    - modelové regiony světa – vybrané modelové přírodní, společenské, politické, hospodářské a environmentální problémy, možnosti jejich řešení
+  - Očekávané výstupy
+    - Z-9-3-01 rozlišuje zásadní přírodní a společenské atributy jako kritéria pro vymezení, ohraničení a lokalizaci regionů světa
+    - Z-9-3-02 lokalizuje na mapách světadíly, oceány a makroregiony světa podle zvolených kritérií, srovnává jejich postavení, rozvojová jádra a periferní zóny
+    - Z-9-3-03 porovnává a přiměřeně hodnotí polohu, rozlohu, přírodní, kulturní, společenské, politické a hospodářské poměry, zvláštnosti a podobnosti, potenciál a bariéry jednotlivých světadílů, oceánů, vybraných makroregionů světa a vybraných (modelových) států
+    - Z-9-3-04 zvažuje, jaké změny ve vybraných regionech světa nastaly, nastávají, mohou nastat a co je příčinou zásadních změn v nich
+
+- **Člověk a příroda** - *Zeměpis* - Společenské a hospodářské prostředí
+  - Učivo
+    - obyvatelstvo světa – základní kvantitativní a kvalitativní geografické, demografické, hospodářské a kulturní charakteristiky
+    - globalizační společenské, politické a hospodářské procesy – aktuální společenské, sídelní, politické a hospodářské poměry současného světa, sídelní systémy, urbanizace, suburbanizace
+    - světové hospodářství – sektorová a odvětvová struktura, územní dělba práce, ukazatele hospodářského rozvoje a životní úrovně
+    - regionální společenské, politické a hospodářské útvary – porovnávací kritéria: národní a mnohonárodnostní státy, části států, správní oblasti, kraje, města, aglomerace; hlavní a periferní hospodářské oblasti světa; politická, bezpečnostní a hospodářská seskupení (integrace) států; geopolitické procesy, hlavní světová konfliktní ohniska
+  - Očekávané výstupy
+    - Z-9-4-01 posoudí na přiměřené úrovni prostorovou organizaci světové populace, její rozložení, strukturu, růst, pohyby a dynamiku růstu a pohybů, zhodnotí na vybraných příkladech mozaiku multikulturního světa
+    - Z-9-4-02 posoudí, jak přírodní podmínky souvisejí s funkcí lidského sídla, pojmenuje obecné základní geografické znaky sídel
+    - Z-9-4-03 zhodnotí přiměřeně strukturu, složky a funkce světového hospodářství, lokalizuje na mapách hlavní světové surovinové a energetické zdroje
+    - Z-9-4-04 porovnává předpoklady a hlavní faktory pro územní rozmístění hospodářských aktivit
+    - Z-9-4-05 porovnává státy světa a zájmové integrace států světa na základě podobných a odlišných znaků
+    - Z-9-4-06 lokalizuje na mapách jednotlivých světadílů hlavní aktuální geopolitické změny a politické problémy v konkrétních světových regionech
+
+- **Člověk a příroda** - *Zeměpis* - Životní prostředí
+  - Učivo
+    - krajina – přírodní a společenské prostředí, typy krajin
+    - vztah přírody a společnosti – trvale udržitelný život a rozvoj, principy a zásady ochrany přírody a životního prostředí, chráněná území přírody, globální ekologické a environmentální problémy lidstva
+  - Očekávané výstupy
+    - Z-9-5-01 porovnává různé krajiny jako součást pevninské části krajinné sféry, rozlišuje na konkrétních příkladech specifické znaky a funkce krajin
+    - Z-9-5-02 uvádí konkrétní příklady přírodních a kulturních krajinných složek a prvků, prostorové rozmístění hlavních ekosystémů (biomů)
+    - Z-9-5-03 uvádí na vybraných příkladech závažné důsledky a rizika přírodních a společenských vlivů na životní prostředí
+
+- **Člověk a příroda** - *Zeměpis* - České republika
+  - Učivo
+    - místní region – zeměpisná poloha, kritéria pro vymezení místního regionu, vztahy k okolním regionům, základní přírodní a socioekonomické charakteristiky s důrazem na specifika regionu důležitá pro jeho další rozvoj (potenciál × bariéry)
+    - Česká republika – zeměpisná poloha, rozloha, členitost, přírodní poměry a zdroje; obyvatelstvo: základní geografické, demografické a hospodářské charakteristiky, sídelní poměry; rozmístění hospodářských aktivit, sektorová a odvětvová struktura hospodářství; transformační společenské, politické a hospodářské procesy a jejich územní projevy a dopady; hospodářské a politické postavení České republiky v Evropě a ve světě, zapojení do mezinárodní dělby práce a obchodu
+    - regiony České republiky – územní jednotky státní správy a samosprávy, krajské členění, kraj místního regionu, přeshraniční spolupráce se sousedními státy v euroregionech
+  - Očekávané výstupy
+    - Z-9-6-01 vymezí a lokalizuje místní oblast (region) podle bydliště nebo školy
+    - Z-9-6-02 hodnotí na přiměřené úrovni přírodní, hospodářské a kulturní poměry místního regionu, možnosti dalšího rozvoje, přiměřeně analyzuje vazby místního regionu k vyšším územním celkům
+    - Z-9-6-03 hodnotí a porovnává na přiměřené úrovni polohu, přírodní poměry, přírodní zdroje, lidský a hospodářský potenciál České republiky v evropském a světovém kontextu
+    - Z-9-6-04 lokalizuje na mapách jednotlivé kraje České republiky a hlavní jádrové a periferní oblasti z hlediska osídlení a hospodářských aktivit
+    - Z-9-6-05 uvádí příklady účasti a působnosti České republiky ve světových mezinárodních a nadnárodních institucích, organizacích a integracích států
+
+- **Člověk a příroda** - *Zeměpis* - Terénní geografická výuka, praxe a aplikace
+  - Učivo
+    - cvičení a pozorování v terénu místní krajiny, geografické exkurze – orientační body, jevy, pomůcky a přístroje; stanoviště, určování hlavních a vedlejších světových stran, pohyb podle mapy a azimutu, odhad vzdáleností a výšek objektů v terénu; jednoduché panoramatické náčrtky krajiny, situační plány, schematické náčrtky pochodové osy, hodnocení přírodních jevů a ukazatelů
+    - ochrana člověka při ohrožení zdraví a života – živelní pohromy; opatření proti nim, chování a jednání při nebezpečí živelních pohrom v modelových situacích
+  - Očekávané výstupy
+    - Z-9-7-01 ovládá základy praktické topografie a orientace v terénu
+    - Z-9-7-02 aplikuje v terénu praktické postupy při pozorování, zobrazování a hodnocení krajiny
+    - Z-9-7-03 uplatňuje v praxi zásady bezpečného pohybu a pobytu v krajině, uplatňuje v modelových situacích zásady bezpečného chování a jednání při mimořádných událostech
+
 ### Očekávané výstupy po 9. ročníku
