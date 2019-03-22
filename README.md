@@ -1136,7 +1136,7 @@
     - Z-9-7-02 aplikuje v terénu praktické postupy při pozorování, zobrazování a hodnocení krajiny
     - Z-9-7-03 uplatňuje v praxi zásady bezpečného pohybu a pobytu v krajině, uplatňuje v modelových situacích zásady bezpečného chování a jednání při mimořádných událostech
 
-- **Úmění a kultura** - *Hudební výchova* - Terénní geografická výuka, praxe a aplikace
+- **Úmění a kultura** - Hudební výchova
   - Učivo
     - Vokální činnosti
       - pěvecký a mluvní projev – rozšiřování hlasového rozsahu, hlasová hygiena, hlasová nedostatečnost a některé způsoby její nápravy, mutace, vícehlasý a jednohlasý zpěv, deklamace, techniky vokálního projevu (scat, falzet apod.), jejich individuální využití při zpěvu i při společných vokálně instrumentálních aktivitách
@@ -1170,6 +1170,226 @@
     - HV-9-1-07 zařadí na základě individuálních schopností a získaných vědomostí slyšenou hudbu do stylového období a porovnává ji z hlediska její slohové a stylové příslušnosti s dalšími skladbami
     - HV-9-1-08 vyhledává souvislosti mezi hudbou a jinými druhy umění
 
+- **Úmění a kultura** - Výtvarná výchova
+  - Učivo
+    - Rozvíjení smyslové citlivosti
+      - prvky vizuálně obrazného vyjádření – linie, tvary, objemy, světlostní a barevné kvality, textury; vztahy a uspořádání prvků v ploše, objemu, prostoru a v časovém průběhu (podobnost, kontrast, rytmus, dynamické proměny, struktura), ve statickém i dynamickém vizuálně obrazném vyjádření
+      - uspořádání objektů do celků v ploše, objemu, prostoru a časovém průběhu – vyjádření vztahů, pohybu a proměn uvnitř a mezi objekty (lineární, světlostní, barevné, plastické a prostorové prostředky a prostředky vyjadřující časový průběh) ve statickém i dynamickém vyjádření
+      - reflexe a vztahy zrakového vnímání ke vnímání ostatními smysly – vědomé vnímání a uplatnění mimovizuálních podnětů při vlastní tvorbě; reflexe ostatních uměleckých druhů (hudebních, dramatických)
+      - smyslové účinky vizuálně obrazných vyjádření – umělecká výtvarná tvorba, fotografie, film, tiskoviny, televize, elektronická média, reklama; výběr, kombinace a variace ve vlastní tvorbě
+    - Uplatňování subjektivity
+      - prostředky pro vyjádření emocí, pocitů, nálad, fantazie, představ a osobních zkušeností – manipulace s objekty, pohyb těla a jeho umístění v prostoru, akční tvar malby a kresby, uspořádání prostoru, celku vizuálně obrazných vyjádření a vyjádření proměn; výběr, uplatnění a interpretace
+      - typy vizuálně obrazných vyjádření – hračky, objekty, ilustrace textů, volná malba, skulptura, plastika, animovaný film, komiks, fotografie, elektronický obraz, reklama, vizualizované dramatické akce, komunikační grafika; rozlišení, výběr a uplatnění pro vlastní tvůrčí záměry
+      - přístupy k vizuálně obrazným vyjádřením – hledisko jejich vnímání (vizuální, haptické, statické, dynamické), hledisko jejich motivace (fantazijní, symbolická, založená na smyslovém vnímání, racionálně konstruktivní, expresivní); reflexe a vědomé uplatnění při vlastních tvůrčích činnostech
+    - Ověřování komunikačních účinků
+      - osobní postoj v komunikaci – jeho utváření a zdůvodňování; důvody vzniku odlišných interpretací vizuálně obrazných vyjádření (samostatně vytvořených a přejatých), kritéria jejich porovnávání, jejich zdůvodňování
+      - komunikační obsah vizuálně obrazných vyjádření – utváření a uplatnění komunikačního obsahu; vysvětlování a obhajoba výsledků tvorby s respektováním záměru autora; prezentace ve veřejném prostoru, mediální prezentace
+      - proměny komunikačního obsahu – záměry tvorby a proměny obsahu vizuálně obrazných vyjádření vlastních děl i děl výtvarného umění; historické, sociální a kulturní souvislosti
+  - Očekávané výstupy
+    - VV-9-1-01 vybírá, vytváří a pojmenovává co nejširší škálu prvků vizuálně obrazných vyjádření a jejich vztahů; uplatňuje je pro vyjádření vlastních zkušeností, vjemů, představ a poznatků; variuje různé vlastnosti prvků a jejich vztahů pro získání osobitých výsledků
+    - VV-9-1-02 užívá vizuálně obrazná vyjádření k zaznamenání vizuálních zkušeností, zkušeností získaných ostatními smysly a k zaznamenání podnětů z představ a fantazie
+    - VV-9-1-03 užívá prostředky pro zachycení jevů a procesů v proměnách a vztazích; k tvorbě užívá některé metody uplatňované v současném výtvarném umění a digitálních médiích – počítačová grafika, fotografie, video, animace
+    - VV-9-1-04 vybírá, kombinuje a vytváří prostředky pro vlastní osobité vyjádření; porovnává a hodnotí jeho účinky s účinky již existujících i běžně užívaných vizuálně obrazných vyjádření
+    - VV-9-1-05 rozliší působení vizuálně obrazného vyjádření v rovině smyslového účinku, v rovině subjektivního účinku a v rovině sociálně utvářeného i symbolického obsahu
+    - VV-9-1-06 interpretuje umělecká vizuálně obrazná vyjádření současnosti i minulosti; vychází při tom ze svých znalostí historických souvislostí i z osobních zkušeností a prožitků
+    - VV-9-1-07 porovnává na konkrétních příkladech různé interpretace vizuálně obrazného vyjádření; vysvětluje své postoje k nim s vědomím osobní, společenské a kulturní podmíněnosti svých hodnotových soudů
+    - VV-9-1-08 ověřuje komunikační účinky vybraných, upravených či samostatně vytvořených vizuálně obrazných vyjádření v sociálních vztazích; nalézá vhodnou formu pro jejich prezentaci
+
+- **Člověk a zdraví** - Výchova ke zdraví
+  - Učivo
+    - Vztahy mezi lidmi a formy soužití
+      - vztahy ve dvojici – kamarádství, přátelství, láska, partnerské vztahy, manželství a rodičovství
+      - vztahy a pravidla soužití v prostředí komunity – rodina, škola, vrstevnická skupina, obec, spolek
+    - Změny v životě člověka a jejich reflexe
+      - dětství, puberta, dospívání – tělesné, duševní a společenské změny
+      - sexuální dospívání a reprodukční zdraví – zdraví reprodukční soustavy, sexualita jako součást formování osobnosti, zdrženlivost, předčasná sexuální zkušenost, promiskuita; problémy těhotenství a rodičovství mladistvých; poruchy pohlavní identity 
+    - Zdravý způsob života a péče o zdraví
+      - výživa a zdraví – zásady zdravého stravování, pitný režim, vliv životních podmínek a způsobu stravování na zdraví; poruchy příjmu potravy
+      - vlivy vnějšího a vnitřního prostředí na zdraví – kvalita ovzduší a vody, hluk, osvětlení, teplota
+      - tělesná a duševní hygiena, denní režim – zásady osobní, intimní a duševní hygieny, otužování, denní režim, vyváženost pracovních a odpočinkových aktivit, význam pohybu pro zdraví, pohybový režim
+      - ochrana před přenosnými chorobami – základní cesty přenosu nákaz a jejich prevence, nákazy respirační, přenosné potravou, získané v přírodě, přenosné krví a sexuálním kontaktem, přenosné bodnutím hmyzu a stykem se zvířaty
+      - ochrana před chronickými nepřenosnými chorobami a před úrazy – prevence kardiovaskulárních a metabolických onemocnění; preventivní a léčebná péče; odpovědné chování v situacích úrazu a život ohrožujících stavů (úrazy v domácnosti, při sportu, na pracovišti, v dopravě), základy první pomoci
+    - Rizika ohrožující zdraví a jejich prevence
+      - stres a jeho vztah ke zdraví – kompenzační, relaxační a regenerační techniky překonávání únavy, stresových reakcí a posilování duševní odolnosti
+      - autodestruktivní závislosti – psychická onemocnění, násilí namířené proti sobě samému, rizikové chování (alkohol, aktivní a pasivní kouření, zbraně, nebezpečné látky a předměty, nebezpečný internet), násilné chování, těžké životní situace a jejich zvládání, trestná činnost, dopink ve sportu
+      - skryté formy a stupně individuálního násilí a zneužívání, sexuální kriminalita – šikana a jiné projevy násilí; formy sexuálního zneužívání dětí; kriminalita mládeže; komunikace se službami odborné pomoci
+      - bezpečné chování a komunikace – komunikace s vrstevníky a neznámými lidmi, bezpečný pohyb v rizikovém prostředí, nebezpečí komunikace prostřednictvím elektronických médií, sebeochrana a vzájemná pomoc v rizikových situacích a v situacích ohrožení
+      - dodržování pravidel bezpečnosti a ochrany zdraví – bezpečné prostředí ve škole, ochrana zdraví při různých činnostech, bezpečnost v dopravě, rizika silniční a železniční dopravy, vztahy mezi účastníky silničního provozu včetně zvládání agresivity, postup v případě dopravní nehody (tísňové volání, zajištění bezpečnosti)
+      - manipulativní reklama a informace – reklamní vlivy, působení sekt
+      - ochrana člověka za mimořádných událostí – klasifikace mimořádných událostí, varovný signál a jiné způsoby varování, základní úkoly ochrany obyvatelstva, evakuace, činnost po mimořádné události, prevence vzniku mimořádných událostí
+    - Hodnota a podpora zdraví 
+      - celostní pojetí člověka ve zdraví a nemoci – složky zdraví a jejich interakce, základní lidské potřeby a jejich hierarchie
+      - podpora zdraví a její formy – prevence a intervence, působení na změnu kvality prostředí a chování jedince, odpovědnost jedince za zdraví, podpora zdravého životního stylu, programy podpory zdraví
+    - Osobnostní a sociální rozvoj
+      - sebepoznání a sebepojetí – vztah k sobě samému, vztah k druhým lidem; zdravé a vyrovnané sebepojetí, utváření vědomí vlastní identity
+      - seberegulace a sebeorganizace činností a chování – cvičení sebereflexe, sebekontroly, sebeovládání a zvládání problémových situací; stanovení osobních cílů a postupných kroků k jejich dosažení; zaujímání hodnotových postojů a rozhodovacích dovedností pro řešení problémů v mezilidských vztazích; pomáhající a prosociální chování
+      - psychohygiena v sociální dovednosti pro předcházení a zvládání stresu, hledání pomoci při problémech
+      - mezilidské vztahy, komunikace a kooperace – respektování sebe sama i druhých, přijímání názoru druhého, empatie; chování podporující dobré vztahy, aktivní naslouchání, dialog, efektivní a asertivní komunikace a kooperace v různých situacích, dopad vlastního jednání a chování
+  - Očekávané výstupy
+    - VZ-9-1-01 respektuje přijatá pravidla soužití mezi spolužáky i jinými vrstevníky a přispívá k utváření dobrých mezilidských vztahů v komunitě
+    - VZ-9-1-02 vysvětlí role členů komunity (rodiny, třídy, spolku) a uvede příklady pozitivního a negativního vlivu na kvalitu sociálního klimatu (vrstevnická komunita, rodinné prostředí) z hlediska prospěšnosti zdraví
+    - VZ-9-1-03 vysvětlí na příkladech přímé souvislosti mezi tělesným, duševním a sociálním zdravím; vysvětlí vztah mezi uspokojováním základních lidských potřeb a hodnotou zdraví
+    - VZ-9-1-04 posoudí různé způsoby chování lidí z hlediska odpovědnosti za vlastní zdraví i zdraví druhých a vyvozuje z nich osobní odpovědnost ve prospěch aktivní podpory zdraví
+    - VZ-9-1-05 usiluje v rámci svých možností a zkušeností o aktivní podporu zdraví
+    - VZ-9-1-06 vyjádří vlastní názor k problematice zdraví a diskutuje o něm v kruhu vrstevníků, rodiny i v nejbližším okolí
+    - VZ-9-1-07 dává do souvislostí složení stravy a způsob stravování s rozvojem civilizačních nemocí a v rámci svých možností uplatňuje zdravé stravovací návyky
+    - VZ-9-1-08 uplatňuje osvojené preventivní způsoby rozhodování, chování a jednání v souvislosti s běžnými, přenosnými, civilizačními a jinými chorobami; svěří se se zdravotním problémem a v případě potřeby vyhledá odbornou pomoc
+    - VZ-9-1-09 projevuje odpovědný vztah k sobě samému, k vlastnímu dospívání a pravidlům zdravého životního stylu; dobrovolně se podílí na programech podpory zdraví v rámci školy a obce
+    - VZ-9-1-10 samostatně využívá osvojené kompenzační a relaxační techniky a sociální dovednosti k regeneraci organismu, překonávání únavy a předcházení stresovým situacím
+    - VZ-9-1-11 respektuje změny v období dospívání, vhodně na ně reaguje; kultivovaně se chová k opačnému pohlaví
+    - VZ-9-1-12 respektuje význam sexuality v souvislosti se zdravím, etikou, morálkou a pozitivními životními cíli; chápe význam zdrženlivosti v dospívání a odpovědného sexuálního chování
+    - VZ-9-1-13 uvádí do souvislostí zdravotní a psychosociální rizika spojená se zneužíváním návykových látek a životní perspektivu mladého člověka; uplatňuje osvojené sociální dovednosti a modely chování při kontaktu se sociálně patologickými jevy ve škole i mimo ni; v případě potřeby vyhledá odbornou pomoc sobě nebo druhým
+    - VZ-9-1-14 vyhodnotí na základě svých znalostí a zkušeností možný manipulativní vliv vrstevníků, médií, sekt; uplatňuje osvojené dovednosti komunikační obrany proti manipulaci a agresi
+    - VZ-9-1-15 projevuje odpovědné chování v rizikových situacích silniční a železniční dopravy; aktivně předchází situacím ohrožení zdraví a osobního bezpečí; v případě potřeby poskytne adekvátní první pomoc
+    - VZ-9-1-16 uplatňuje adekvátní způsoby chování a ochrany v modelových situacích ohrožení, nebezpečí i mimořádných událostí
+
+- **Člověk a zdraví** - *Tělesná výchova* - Činnosti ovlivňující zdraví
+  - Učivo
+    - význam pohybu pro zdraví – rekreační a výkonnostní sport, sport dívek a chlapců
+    - zdravotně orientovaná zdatnost – rozvoj zdravotně orientované zdatnosti, kondiční programy, manipulace se zatížením
+    - prevence a korekce jednostranného zatížení a svalových dysbalancí – průpravná, kompenzační, vyrovnávací, relaxační a jiná zdravotně zaměřená cvičení
+    - hygiena a bezpečnost při pohybových činnostech – v nestandardním prostředí, první pomoc při TV a sportu v různém prostředí a klimatických podmínkách, improvizované ošetření poranění a odsun raněného
+  - Očekávané výstupy
+    - TV-9-1-01 aktivně vstupuje do organizace svého pohybového režimu, některé pohybové činnosti zařazuje pravidelně a s konkrétním účelem
+    - TV-9-1-02 usiluje o zlepšení své tělesné zdatnosti; z nabídky zvolí vhodný rozvojový program
+    - TV-9-1-03 samostatně se připraví před pohybovou činností a ukončí ji ve shodě s hlavní činností – zatěžovanými svaly
+    - TV-9-1-04 odmítá drogy a jiné škodliviny jako neslučitelné se sportovní etikou a zdravím; upraví pohybovou aktivitu vzhledem k údajům o znečištění ovzduší
+    - TV-9-1-05 uplatňuje vhodné a bezpečné chování i v méně známém prostředí sportovišť, přírody, silničního provozu; předvídá možná nebezpečí úrazu a přizpůsobí jim svou činnost
+
+- **Člověk a zdraví** - *Tělesná výchova* - Činnosti ovlivňující úroveň pohybových dovedností
+  - Učivo
+    - pohybové hry – s různým zaměřením; netradiční pohybové hry a aktivity
+    - gymnastika – akrobacie, přeskoky, cvičení s náčiním a na nářadí
+    - estetické a kondiční formy cvičení s hudbou a rytmickým doprovodem – základy rytmické gymnastiky, cvičení s náčiním; kondiční formy cvičení pro daný věk žáků; tance
+    - úpoly – základy sebeobrany, základy aikido, judo, karate
+    - atletika – rychlý běh, vytrvalý běh na dráze a v terénu, základy překážkového běhu, skok do dálky nebo do výšky, hod míčkem nebo granátem, vrh koulí
+    - sportovní hry (alespoň dvě hry podle výběru školy) – herní činnosti jednotlivce, herní kombinace, herní systémy, utkání podle pravidel žákovské kategorie
+    - turistika a pobyt v přírodě – příprava turistické akce, přesun do terénu a uplatňování pravidel bezpečnosti silničního provozu v roli chodce a cyklisty, chůze se zátěží i v mírně náročném terénu, táboření, ochrana přírody, základy orientačního běhu, dokumentace z turistické akce; přežití v přírodě, orientace, ukrytí, nouzový přístřešek, zajištění vody, potravy, tepla
+    - plavání (podle podmínek školy – zdokonalovací plavecká výuka, pokud neproběhla základní plavecká výuka, musí předcházet adaptace na vodní prostředí a základní plavecké dovednosti) – další plavecké dovednosti, další plavecký způsob (plavecká technika), dovednosti záchranného a branného plavání, prvky zdravotního plavání a plaveckých sportů, rozvoj plavecké vytrvalosti
+    - lyžování, snowboarding, bruslení (podle podmínek školy) – běžecké lyžování, lyžařská turistika, sjezdové lyžování nebo jízda na snowboardu, bezpečnost pohybu v zimní horské krajině, jízda na vleku; (popř. další zimní sporty podle podmínek školy)
+    - další (i netradiční) pohybové činnosti (podle podmínek školy a zájmu žáků)
+  - Očekávané výstupy
+    - TV-9-2-01 zvládá v souladu s individuálními předpoklady osvojované pohybové dovednosti a tvořivě je aplikuje ve hře, soutěži, při rekreačních činnostech
+    - TV-9-2-02 posoudí provedení osvojované pohybové činnosti, označí zjevné nedostatky a jejich možné příčiny
+
+- **Člověk a zdraví** - *Tělesná výchova* - Činnosti podporující pohybové cvičení
+  - Učivo
+    - komunikace v TV – tělocvičné názvosloví osvojovaných činností, smluvené povely, signály, gesta, značky, základy grafického zápisu pohybu, vzájemná komunikace a spolupráce při osvojovaných pohybových činnostech
+    - organizace prostoru a pohybových činností – v nestandardních podmínkách; sportovní výstroj a výzbroj – výběr, ošetřování
+    - historie a současnost sportu – významné soutěže a sportovci, olympismus – olympijská charta
+    - pravidla osvojovaných pohybových činností – her, závodů, soutěží
+    - zásady jednání a chování v různém prostředí a při různých činnostech
+    - měření výkonů a posuzování pohybových dovedností – měření, evidence, vyhodnocování
+  - Očekávané výstupy
+    - TV-9-3-01 užívá osvojované názvosloví na úrovni cvičence, rozhodčího, diváka, čtenáře novin a časopisů, uživatele internetu
+    - TV-9-3-02 naplňuje ve školních podmínkách základní olympijské myšlenky – čestné soupeření, pomoc handicapovaným, respekt k opačnému pohlaví, ochranu přírody při sportu
+    - TV-9-3-03 dohodne se na spolupráci i jednoduché taktice vedoucí k úspěchu družstva a dodržuje ji
+    - TV-9-3-04 rozlišuje a uplatňuje práva a povinnosti vyplývající z role hráče, rozhodčího, diváka, organizátora
+    - TV-9-3-05 sleduje určené prvky pohybové činnosti a výkony, eviduje je a vyhodnotí
+    - TV-9-3-06 zorganizuje samostatně i v týmu jednoduché turnaje, závody, turistické akce na úrovni školy; spolurozhoduje osvojované hry a soutěže
+    - TV-9-3-07 zpracuje naměřená data a informace o pohybových aktivitách a podílí se na jejich prezentaci
+
+- **Člověk a svět práce** - Práce s technickými materiály
+  - Učivo
+    - vlastnosti materiálu, užití v praxi (dřevo, kov, plasty, kompozity)
+    - pracovní pomůcky, nářadí a nástroje pro ruční opracování
+    - jednoduché pracovní operace a postupy
+    - organizace práce, důležité technologické postupy
+    - technické náčrty a výkresy, technické informace, návody
+    - úloha techniky v životě člověka, zneužití techniky, technika a životní prostředí, technika a volný čas, tradice a řemesla
+  - Očekávané výstupy
+    - ČSP-9-1-01 provádí jednoduché práce s technickými materiály a dodržuje technologickou kázeň
+    - ČSP-9-1-02 řeší jednoduché technické úkoly s vhodným výběrem materiálů, pracovních nástrojů a nářadí
+    - ČSP-9-1-03 organizuje a plánuje svoji pracovní činnost
+    - ČSP-9-1-04 užívá technickou dokumentaci, připraví si vlastní jednoduchý náčrt výrobku
+    - ČSP-9-1-05 dodržuje obecné zásady bezpečnosti a hygieny při práci i zásady bezpečnosti a ochrany při práci s nástroji a nářadím; poskytne první pomoc při úrazu
+    
+- **Člověk a svět práce** - Design a konstruování
+  - Učivo
+    - stavebnice (konstrukční, elektrotechnické, elektronické), sestavování modelů, tvorba konstrukčních prvků, montáž a demontáž
+    - návod, předloha, náčrt, plán, schéma, jednoduchý program
+  - Očekávané výstupy
+    - ČSP-9-2-01 sestaví podle návodu, náčrtu, plánu, jednoduchého programu daný model
+    - ČSP-9-2-02 navrhne a sestaví jednoduché konstrukční prvky a ověří a porovná jejich funkčnost, nosnost, stabilitu aj.
+    - ČSP-9-2-03 provádí montáž, demontáž a údržbu jednoduchých předmětů a zařízení
+    - ČSP-9-2-04 dodržuje zásady bezpečnosti a hygieny práce a bezpečnostní předpisy; poskytne první pomoc při úrazu
+
+- **Člověk a svět práce** - Pěstitelské práce, chovatelství
+  - Učivo
+    - základní podmínky pro pěstování – půda a její zpracování, výživa rostlin, ochrana rostlin a půdy
+    - zelenina – osivo, sadba, výpěstky, podmínky a zásady pěstování; pěstování vybraných druhů zeleniny
+    - okrasné rostliny – základy ošetřování pokojových květin, pěstování vybraných okrasných dřevin a květin; květina v exteriéru a interiéru (hydroponie, bonsaje), řez, jednoduchá vazba, úprava květin
+    - ovocné rostliny – druhy ovocných rostlin, způsob pěstování, uskladnění a zpracování
+    - léčivé rostliny, koření – pěstování vybrané rostliny; rostliny a zdraví člověka; léčivé účinky rostlin, rostliny jedovaté; rostliny jako drogy a jejich zneužívání; alergie
+    - chovatelství – chov zvířat v domácnosti, podmínky chovu, hygiena a bezpečnost chovu; kontakt se známými a neznámými zvířaty
+  - Očekávané výstupy
+    - ČSP-9-3-01 volí vhodné pracovní postupy při pěstování vybraných rostlin
+    - ČSP-9-3-02 pěstuje a využívá květiny pro výzdobu
+    - ČSP-9-3-03 používá vhodné pracovní pomůcky a provádí jejich údržbu
+    - ČSP-9-3-04 prokáže základní znalost chovu drobných zvířat a zásad bezpečného kontaktu se zvířaty
+    - ČSP-9-3-05 dodržuje technologickou kázeň, zásady hygieny a bezpečnosti práce, poskytne první pomoc při úrazu, včetně úrazu způsobeného zvířaty
+
+- **Člověk a svět práce** - Provoz a údržba domácnosti
+  - Učivo
+    - finance, provoz a údržba domácnosti – rozpočet, příjmy, výdaje, platby, úspory; hotovostní a bezhotovostní platební styk, ekonomika domácnosti; údržba oděvů a textilií, úklid domácnosti, postupy, prostředky a jejich dopad na životní prostředí, odpad a jeho ekologická likvidace; spotřebiče v domácnosti
+    - elektrotechnika v domácnosti – elektrická instalace, elektrické spotřebiče, elektronika, sdělovací technika, funkce, ovládání a užití, ochrana, údržba, bezpečnost a ekonomika provozu, nebezpečí úrazu elektrickým proudem
+  - Očekávané výstupy
+    - ČSP-9-4-01 provádí jednoduché operace platebního styku a domácího účetnictví
+    - ČSP-9-4-02 ovládá jednoduché pracovní postupy při základních činnostech v domácnosti a orientuje se v návodech k obsluze běžných domácích spotřebičů
+    - ČSP-9-4-03 správně zachází s pomůckami, nástroji, nářadím a zařízením včetně údržby; provádí drobnou domácí údržbu
+    - ČSP-9-4-04 dodržuje základní hygienická a bezpečnostní pravidla a předpisy a poskytne první pomoc při úrazu, včetně úrazu elektrickým proudem
+
+- **Člověk a svět práce** - Příprava pokrmů
+  - Učivo
+    - kuchyně – základní vybavení, udržování pořádku a čistoty, bezpečnost a hygiena provozu
+    - potraviny – výběr, nákup, skladování, skupiny potravin, sestavování jídelníčku
+    - příprava pokrmů – úprava pokrmů za studena, základní způsoby tepelné úpravy, základní postupy při přípravě pokrmů a nápojů
+    - úprava stolu a stolování – jednoduché prostírání, obsluha a chování u stolu, slavnostní stolování v rodině, zdobné prvky a květiny na stole
+  - Očekávané výstupy
+    - ČSP-9-5-01 používá základní kuchyňský inventář a bezpečně obsluhuje základní spotřebiče
+    - ČSP-9-5-02 připraví jednoduché pokrmy v souladu se zásadami zdravé výživy
+    - ČSP-9-5-03 dodržuje základní principy stolování, společenského chování a obsluhy u stolu ve společnosti
+    - ČSP-9-5-04 dodržuje zásady hygieny a bezpečnosti práce; poskytne první pomoc při úrazech v kuchyni
+
+- **Člověk a svět práce** - Práce s laboratorní technikou
+  - Učivo
+    - základní laboratorní postupy a metody
+    - základní laboratorní přístroje, zařízení a pomůcky
+  - Očekávané výstupy
+    - ČSP-9-6-01 vybere a prakticky využívá vhodné pracovní postupy, přístroje, zařízení a pomůcky pro konání konkrétních pozorování, měření a experimentů
+    - ČSP-9-6-02 zpracuje protokol o cíli, průběhu a výsledcích své experimentální práce a zformuluje v něm závěry, k nimž dospěl
+    - ČSP-9-6-03 vyhledá v dostupných informačních zdrojích všechny podklady, jež mu co nejlépe pomohou provést danou experimentální práci
+    - ČSP-9-6-04 dodržuje pravidla bezpečné práce a ochrany životního prostředí při experimentální práci
+    - ČSP-9-6-05 poskytne první pomoc při úrazu v laboratoři
+
+- **Člověk a svět práce** - Využití digitálních technologií
+  - Učivo
+    - digitální technika – počítač a periferní zařízení, digitální fotoaparát, videokamera, PDA, CD a DVD přehrávače, e-kniha, mobilní telefony
+    - digitální technologie – bezdrátové technologie (USB, Bluetooth, wi-fi, GPRS, GMS, norma IEEE 802.11b), navigační technologie, konvergence technologií, multiplexování
+    - počítačové programy pro zpracovávání hlasových a grafických informací – úpravy, archivace, střih; operační systémy, vzájemná komunikace zařízení (synchronizace PDA s PC)
+    - mobilní služby – operátoři, tarify
+  - Očekávané výstupy
+    - ČSP-9-7-01 ovládá základní funkce digitální techniky; diagnostikuje a odstraňuje základní problémy při provozu digitální techniky
+    - ČSP-9-7-02 propojuje vzájemně jednotlivá digitální zařízení
+    - ČSP-9-7-03 pracuje uživatelským způsobem s mobilními technologiemi – cestování, obchod, vzdělávání, zábava
+    - ČSP-9-7-04 ošetřuje digitální techniku a chrání ji před poškozením
+    - ČSP-9-7-05 dodržuje základní hygienická a bezpečnostní pravidla a předpisy při práci s digitální technikou a poskytne první pomoc při úrazu
+
+- **Člověk a svět práce** - Svět práce
+  - Učivo
+    - trh práce – povolání lidí, druhy pracovišť, pracovních prostředků, pracovních objektů, charakter a druhy pracovních činností; požadavky kvalifikační, zdravotní a osobnostní; rovnost příležitostí na trhu práce
+    - volba profesní orientace – základní principy sebepoznávání: osobní zájmy a cíle, tělesný a zdravotní stav, osobní vlastnosti a schopnosti, sebehodnocení, vlivy na volbu profesní orientace; informační základna pro volbu povolání, práce s profesními informacemi a využívání poradenských služeb
+    - možnosti vzdělávání – náplň učebních a studijních oborů, přijímací řízení, informace a poradenské služby
+    - zaměstnání – pracovní příležitosti v obci (regionu), způsoby hledání zaměstnání, psaní životopisu, pohovor u zaměstnavatele, problémy nezaměstnanosti, úřady práce práva a povinnosti zaměstnanců a zaměstnavatelů
+    - podnikání – druhy a struktura organizací, nejčastější formy podnikání, drobné a soukromé podnikání
+  - Očekávané výstupy
+    - ČSP-9-8-01 orientuje se v pracovních činnostech vybraných profesí
+    - ČSP-9-8-02 posoudí své možnosti při rozhodování o volbě vhodného povolání a profesní přípravy
+    - ČSP-9-8-03 využije profesní informace a poradenské služby pro výběr vhodného vzdělávání
+    - ČSP-9-8-04 prokáže v modelových situacích schopnost prezentace své osoby při vstupu na trh práce
+
 ---
 
-Licence dokumentu: CC-NC-BY-SA
+Licence dokumentu: CC-BY-NC-SA
+Autor: Tom Marius
+Zdroj: RVP 2017-... pro ZŠ
