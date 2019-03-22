@@ -31,7 +31,7 @@
 - Naši studenti dostanou aplikaci bez reklam automaticky
 - Do budoucna umožnit korespondenčním seminářům přijímat řešení skrze cloud, vyhlašovat zadání atp.
 
-## Obsah
+## Plán tvorby obsahu
 - První fáze - 6. až 9. třída ZŠ bez cizích jazyků
   - RVP: http://www.msmt.cz/file/43792/
   - Vzdělávací oblast "Člověk a příroda"
@@ -56,7 +56,14 @@
 - Počty
 
 ### 1. období (cca 1. až 3. ročník, 6-9 let)
+- **Člověk a jeho svět** - *Místo, kde žijeme*
+- **Člověk a jeho svět** - *Lidé kolem nás*
+- **Člověk a jeho svět** - *Lidé a čas*
+- **Člověk a jeho svět** - *Rozmanitost přírody* - část
+- **Člověk a jeho svět** - *Člověk a jeho zdraví* - část
 
 ### 2. období (cca 4. a 5. ročník, 10-11 let)
+- **Člověk a jeho svět** - *Rozmanitost přírody* - část
+- **Člověk a jeho svět** - *Člověk a jeho zdraví* - část
 
 ### 3. období (cca 6. až 9. ročník, 12-15 let)
