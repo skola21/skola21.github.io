@@ -52,23 +52,107 @@
 ## Vzdělávací plán
 
 ### 1. období 1. stupně
-- Střední doba kamenná - lovci a sběrači
+
 
 ### 2. období 1. stupně
+
+
+### Dějepis
+- Střední doba kamenná - lovci a sběrači
 - Mladší doba kamenná - neolitická revoluce
 - Doba bronzová
-- Doba železná
+  - Mínojská civilizace
+- Sumerská říše, civilizace údolí řeky
+- Babylon
+- Asýrie
+- Egypt, Indie, Čína
+- Antické Řecko
+- Antický Řím
+- Raný středověk
+- Pozdní středověk
+  - Objev Ameriky 1492
+- Novověk
+  - 1 světová válka
+- Moderní doba
+  - Meziváleční období
+  - 2 světová válka
+  - Studená válka
+  - 90 léta
+  - 21 století
+  
+## Karty
 
 ### 2. stupeň
-- Starověk (6. ročník)
-- Středověk (6. a 7. ročník)
-- Novověk (7. a 8. ročník)
-- Moderní doba (8. a 9. ročník)
-  - 1. světová válka
-  - Meziváleční období
-  - 2. světová válka
-  - Studená válka
-  - Digitální věk
+
+#### Dějepis
+
+##### Střední doba kamenná
+Lovci a sběrači
+
+##### Mladší doba kamenná
+Neolitická revoluce
+
+##### Doba bronzová
+
+###### Mínojská civilizace
+
+##### Civilizace údolí řeky
+
+###### Sumerská říše
+
+###### Babylon
+
+###### Asýrie
+
+##### Egypt, Indie, Čína
+
+##### Antické Řecko
+
+##### Antický Řím
+
+##### Raný středověk
+
+##### Pozdní středověk
+
+###### Objev Ameriky
+
+##### Novověk
+
+###### 1. světová válka
+
+##### Moderní doba
+
+###### Meziválečné období
+- 28. října 1918 Vznik Československa
+
+###### 2. světová válka
+- 1938 Mnichovská dohoda
+- 1939 Protektorát Čechy a Morava
+- 8. května 1945 Kapitulace Německa (Den vítězství)
+
+###### Studená válka
+- 1947 Počátek studené války
+- 1948 Únorový puč
+- 1949 Založení Rady vzájemné hospodářské pomoci
+- 1949 Vznik Severoatlantické aliance
+- 1952 Založeno Evropské společenství uhlí a oceli
+- 1955 Vznik Varšavské smlouvy
+- 1958 Založeno Evropské hospodářské společenství a Evropské společenství pro atomovou energii
+- 1967 Sloučení ESUO, EHS a Euratom, vznik Evropských společenství (ES)
+- 1968 Pražské jaro
+- 21. srpna 1968 Okupace Československa
+- 1973 První rozšíření ES, vstoupilo Spojené království, Irsko a Dánsko
+- 1985 Schengenská dohoda
+- 1989 Sametová revoluce
+
+###### 90. léta
+- 1991 Rozpad Sovětského svazu
+- 1992 Rozdělení Československa
+- 1. ledna 1993 Vznik České republiky
+
+###### 21. století
+- 2004 Vstup ČR do EU
+- 2016 Referendum Spojeného království o výstupu z EU
 
 ## Klíčové kompetence dle RVP
 ŠVP Škola21 naplňuje obsah klíčových kompetencí a cílů vzdělávání dle RVP. Vysvětlení principů realizace:
