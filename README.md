@@ -48,7 +48,7 @@
     - "Člověk a jeho zdraví" - část
 - Čtvrtá fáze - čtení, psaní, základní počty
 
-## "Jak jde čas" (vzdělání dítěte na timeline dle RVP)
+## Očekávané výstupu dle RVP chronologicky
 
 ### 0. období (cca 5-7 let)
 - Čtení
@@ -57,12 +57,23 @@
 
 ### 1. období (cca 1. až 3. ročník, 6-9 let)
 - **Člověk a jeho svět** - *Místo, kde žijeme* - 1. období
+  - ČJS-3-1-01 vyznačí v jednoduchém plánu místo svého bydliště a školy, cestu na určené místo a rozliší možná nebezpečí v nejbližším okolí
+  - ČJS-3-1-02 začlení svou obec (město) do příslušného kraje a obslužného centra ČR, pozoruje a popíše změny v nejbližším okolí, obci (městě)
+  - ČJS-3-1-03 rozliší přírodní a umělé prvky v okolní krajině a vyjádří různými způsoby její estetické hodnoty a rozmanitost
 
 - **Člověk a jeho svět** - *Lidé kolem nás* - 1. období
+  - ČJS-3-2-01 rozlišuje blízké příbuzenské vztahy v rodině, role rodinných příslušníků a vztahy mezi nimi, projevuje toleranci k přirozeným odlišnostem spolužáků i jiných lidí, jejich přednostem i nedostatkům
+  - ČJS-3-2-02 odvodí význam a potřebu různých povolání a pracovních činností
 
 - **Člověk a jeho svět** - *Lidé a čas* - 1. období
+  - ČJS-3-3-01 využívá časové údaje při řešení různých situací v denním životě, rozlišuje děj v minulosti, přítomnosti a budoucnosti
+  - ČJS-3-3-02 pojmenuje některé rodáky, kulturní či historické památky, významné události regionu, interpretuje některé pověsti nebo báje spjaté s místem, v němž žije
+  - ČJS-3-3-03 uplatňuje elementární poznatky o sobě, o rodině a činnostech člověka, o lidské společnosti, soužití, zvycích a o práci lidí; na příkladech porovnává minulost a současnost
 
 - **Člověk a jeho svět** - *Rozmanitost přírody* - 1. období
+  - ČJS-3-4-01 pozoruje, popíše a porovná viditelné proměny v přírodě v jednotlivých ročních obdobích
+  - ČJS-3-4-02 roztřídí některé přírodniny podle nápadných určujících znaků, uvede příklady výskytu organismů ve známé lokalitě
+  - ČJS-3-4-03 provádí jednoduché pokusy u skupiny známých látek, určuje jejich společné a rozdílné vlastnosti a změří základní veličiny pomocí jednoduchých nástrojů a přístrojů
 
 - **Člověk a jeho svět** - *Člověk a jeho zdraví* - 1. období
 
@@ -112,14 +123,52 @@
   - M-3-3-02 porovnává velikost útvarů, měří a odhaduje délku úsečky
   - M-3-3-03 rozezná a modeluje jednoduché souměrné útvary v rovině
 
+- **Informační a komunikační technologie** - Základy práce s počítačem - 1. a 2. období
+  - ICT-5-1-01 využívá základní standardní funkce počítače a jeho nejběžnější periferie
+  - ICT-5-1-02 respektuje pravidla bezpečné práce s hardwarem i softwarem a postupuje poučeně v případě jejich závady
+  - ICT-5-1-03 chrání data před poškozením, ztrátou a zneužitím
+
+- **Informační a komunikační technologie** - Vyhledávání informací a komunikace - 1. a 2. období
+  - ICT-5-2-01 při vyhledávání informací na internetu používá jednoduché a vhodné cesty
+  - ICT-5-2-02 vyhledává informace na portálech, v knihovnách a databázích
+  - ICT-5-2-03 komunikuje pomocí internetu či jiných běžných komunikačních zařízení
+
+- **Informační a komunikační technologie** - Zpracování a využití informací - 1. a 2. období
+  - ICT-5-3-01 pracuje s textem a obrázkem v textovém a grafickém editoru
+
+
+
 ### 2. období (cca 4. a 5. ročník, 10-11 let)
 - **Člověk a jeho svět** - *Místo, kde žijeme* - 2. období
+  - ČJS-5-1-01 určí a vysvětlí polohu svého bydliště nebo pobytu vzhledem ke krajině a státu
+  - ČJS-5-1-02 určí světové strany v přírodě i podle mapy, orientuje se podle nich a řídí se podle zásad bezpečného pohybu a pobytu v přírodě
+  - ČJS-5-1-03 rozlišuje mezi náčrty, plány a základními typy map; vyhledává jednoduché údaje o přírodních podmínkách a sídlištích lidí na mapách naší republiky, Evropy a polokoulí
+  - ČJS-5-1-04 vyhledá typické regionální zvláštnosti přírody, osídlení, hospodářství a kultury, jednoduchým způsobem posoudí jejich význam z hlediska přírodního, historického, politického, správního a vlastnického
+  - ČJS-5-1-05 zprostředkuje ostatním zkušenosti, zážitky a zajímavosti z vlastních cest a porovná způsob života a přírodu v naší vlasti i v jiných zemích
+  - ČJS-5-1-06 rozlišuje hlavní orgány státní moci a některé jejich zástupce, symboly našeho státu a jejich význam
 
 - **Člověk a jeho svět** - *Lidé kolem nás* - 2. období
+  - ČJS-5-2-01 vyjádří na základě vlastních zkušeností základní vztahy mezi lidmi, vyvodí a dodržuje pravidla pro soužití ve škole, mezi chlapci a dívkami, v rodině, v obci (městě)
+  - ČJS-5-2-02 rozlišuje základní rozdíly mezi lidmi, obhájí a odůvodní své názory, připustí svůj omyl a dohodne se na společném postupu řešení
+  - ČJS-5-2-03 rozpozná ve svém okolí jednání a chování, která se už nemohou tolerovat a která porušují základní lidská práva nebo demokratické principy
+  - ČJS-5-2-04 orientuje se v základních formách vlastnictví; používá peníze v běžných situacích, odhadne a zkontroluje cenu nákupu a vrácené peníze, na příkladu ukáže nemožnost realizace všech chtěných výdajů, vysvětlí, proč spořit, kdy si půjčovat a jak vracet dluhy
+  - ČJS-5-2-05 poukáže v nejbližším společenském a přírodním prostředí na změny a některé problémy a navrhne možnosti zlepšení životního prostředí obce (města)
 
 - **Člověk a jeho svět** - *Lidé a čas* - 2. období
+  - ČJS-5-3-01 pracuje s časovými údaji a využívá zjištěných údajů k pochopení vztahů mezi ději a mezi jevy
+  - ČJS-5-3-02 využívá archivů, knihoven, sbírek muzeí a galerií jako informačních zdrojů pro pochopení minulosti; zdůvodní základní význam chráněných částí přírody, nemovitých i movitých kulturních památek
+  - ČJS-5-3-03 rozeznává současné a minulé a orientuje se v hlavních reáliích minulosti a současnosti naší vlasti s využitím regionálních specifik
+  - ČJS-5-3-04 srovnává a hodnotí na vybraných ukázkách způsob života a práce předků na našem území v minulosti a současnosti s využitím regionálních specifik
+  - ČJS-5-3-05 objasní historické důvody pro zařazení státních svátků a významných dnů
 
 - **Člověk a jeho svět** - *Rozmanitost přírody* - 2. období
+  - ČJS-5-4-01 objevuje a zjišťuje propojenost prvků živé a neživé přírody, princip rovnováhy přírody a nachází souvislosti mezi konečným vzhledem přírody a činností člověka
+  - ČJS-5-4-02 vysvětlí na základě elementárních poznatků o Zemi jako součásti vesmíru souvislost s rozdělením času a střídáním ročních období
+  - ČJS-5-4-03 zkoumá základní společenstva ve vybraných lokalitách regionů, zdůvodní podstatné vzájemné vztahy mezi organismy a nachází shody a rozdíly v přizpůsobení organismů prostředí
+  - ČJS-5-4-04 porovnává na základě pozorování základní projevy života na konkrétních organismech, prakticky třídí organismy do známých skupin, využívá k tomu i jednoduché klíče a atlasy
+  - ČJS-5-4-05 zhodnotí některé konkrétní činnosti člověka v přírodě a rozlišuje aktivity, které mohou prostředí i zdraví člověka podporovat nebo poškozovat
+  - ČJS-5-4-06 stručně charakterizuje specifické přírodní jevy a z nich vyplývající rizika vzniku mimořádných událostí; v modelové situaci prokáže schopnost se účinně chránit
+  - ČJS-5-4-07 založí jednoduchý pokus, naplánuje a zdůvodní postup, vyhodnotí a vysvětlí výsledky pokusu
 
 - **Člověk a jeho svět** - *Člověk a jeho zdraví* - 2. období
 
@@ -172,6 +221,16 @@
   - M-5-3-03 sestrojí rovnoběžky a kolmice
   - M-5-3-04 určí obsah obrazce pomocí čtvercové sítě a užívá základní jednotky obsahu
   - M-5-3-05 rozpozná a znázorní ve čtvercové síti jednoduché osově souměrné útvary a určí osu souměrnosti útvaru překládáním papíru
+  
+- **Matematika a její aplikace** - Nestandardní aplikační úlohy a problémy - 2. období
+  - M-5-4-01 řeší jednoduché praktické slovní úlohy a problémy, jejichž řešení je do značné míry nezávislé na obvyklých postupech a algoritmech školské matematiky
+
+- **Informační a komunikační technologie** - Základy práce s počítačem - 1. a 2. období
+  - ICT-5-1-01 využívá základní standardní funkce počítače a jeho nejběžnější periferie
+  - ICT-5-1-02 respektuje pravidla bezpečné práce s hardwarem i softwarem a postupuje poučeně v případě jejich závady
+  - ICT-5-1-03 chrání data před poškozením, ztrátou a zneužitím
+
+
 
 ### Očekávané výstupy po 5. ročníku
 
