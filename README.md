@@ -50,6 +50,8 @@
 
 ## "Jak jde čas" (obsah)
 
+### 0. období - čtení, psaní, počty
+
 ### 1. období (cca 1. až 3. ročník, 6-9 let)
 
 ### 2. období (cca 4. a 5. ročník, 10-11 let)
