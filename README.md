@@ -127,6 +127,11 @@
     - ČJS-3-5-04 reaguje adekvátně na pokyny dospělých při mimořádných událostech
 
 - **Jazyk a jazyková komunikace** - *Český jazyk a literatura* - Komunikační a slohová výchova - 1. období
+  - Učivo
+    - čtení – praktické čtení (technika čtení, čtení pozorné, plynulé, znalost orientačních prvků v textu); věcné čtení (čtení jako zdroj informací, čtení vyhledávací, klíčová slova)
+    - naslouchání – praktické naslouchání (zdvořilé, vyjádření kontaktu s partnerem); věcné naslouchání (pozorné, soustředěné, aktivní – zaznamenat slyšené, reagovat otázkami)
+    - mluvený projev – základy techniky mluveného projevu (dýchání, tvoření hlasu, výslovnost), vyjadřování závislé na komunikační situaci; komunikační žánry: pozdrav, oslovení, omluva, prosba, vzkaz, zpráva, oznámení, vypravování, dialog na základě obrazového materiálu; základní komunikační pravidla (oslovení, zahájení a ukončení dialogu, střídání rolí mluvčího a posluchače, zdvořilé vystupování), mimojazykové prostředky řeči (mimika, gesta)
+    - písemný projev – základní hygienické návyky (správné sezení, držení psacího náčiní, hygiena zraku, zacházení s grafickým materiálem); technika psaní (úhledný, čitelný a přehledný písemný projev, formální úprava textu); žánry písemného projevu: adresa, blahopřání, pozdrav z prázdnin, omluvenka; zpráva, oznámení, pozvánka, vzkaz, inzerát, dopis, popis; jednoduché tiskopisy (přihláška, dotazník), vypravování
   - Očekávané výstupy
     - ČJL-3-1-01 plynule čte s porozuměním texty přiměřeného rozsahu a náročnosti
     - ČJL-3-1-02 porozumí písemným nebo mluveným pokynům přiměřené složitosti
@@ -141,6 +146,12 @@
     - ČJL-3-1-11 seřadí ilustrace podle dějové posloupnosti a vypráví podle nich jednoduchý příběh
 
 - **Jazyk a jazyková komunikace** - *Český jazyk a literatura* - Jazyková výchova - 1. období
+  - Učivo
+    - zvuková stránka jazyka – sluchové rozlišení hlásek, výslovnost samohlásek, souhlásek a souhláskových skupin, modulace souvislé řeči (tempo, intonace, přízvuk)
+    - slovní zásoba a tvoření slov – slova a pojmy, význam slov, slova jednoznačná a mnohoznačná, antonyma, synonyma, homonyma; stavba slova (kořen, část předponová a příponová, koncovka)
+    - tvarosloví – slovní druhy, tvary slov
+    - skladba – věta jednoduchá a souvětí, základní skladební dvojice
+    - pravopis – lexikální, základy morfologického (koncovky podstatných jmen a přídavných jmen tvrdých a měkkých) a syntaktického (shoda přísudku s holým podmětem)
   - Očekávané výstupy
     - ČJL-3-2-01 rozlišuje zvukovou a grafickou podobu slova, člení slova na hlásky, odlišuje dlouhé a krátké samohlásky
     - ČJL-3-2-02 porovnává významy slov, zvláště slova opačného významu a slova významem souřadná, nadřazená a podřazená, vyhledá v textu slova příbuzná
@@ -152,6 +163,11 @@
     - ČJL-3-2-08 odůvodňuje a píše správně: i/y po tvrdých a měkkých souhláskách i po obojetných souhláskách ve vyjmenovaných slovech; dě, tě, ně, ú/ů, bě, pě, vě, mě – mimo morfologický šev; velká písmena na začátku věty a v typických případech vlastních jmen osob, zvířat a místních pojmenování
 
 - **Jazyk a jazyková komunikace** - *Český jazyk a literatura* - Literární výchova - 1. období
+  - Učivo
+    - poslech literárních textů
+    - zážitkové čtení a naslouchání
+    - tvořivé činnosti s literárním textem – přednes vhodných literárních textů, volná reprodukce přečteného nebo slyšeného textu, dramatizace, vlastní výtvarný doprovod
+    - základní literární pojmy – literární druhy a žánry: rozpočitadlo, hádanka, říkanka, báseň, pohádka, bajka, povídka; spisovatel, básník, kniha, čtenář; divadelní představení, herec, režisér; verš, rým, přirovnání
   - Očekávané výstupy
     - ČJL-3-3-01 čte a přednáší zpaměti ve vhodném frázování a tempu literární texty přiměřené věku
     - ČJL-3-3-02 vyjadřuje své pocity z přečteného textu
@@ -159,6 +175,12 @@
     - ČJL-3-3-04 pracuje tvořivě s literárním textem podle pokynů učitele a podle svých schopností
 
 - **Matematika a její aplikace** - Číslo a početní operace - 1. období
+  - Učivo
+    - přirozená čísla, celá čísla, desetinná čísla, zlomky
+    - zápis čísla v desítkové soustavě a jeho znázornění (číselná osa, teploměr, model)
+    - násobilka
+    - vlastnosti početních operací s čísly
+    - písemné algoritmy početních operací
   - Očekávané výstupy
     - M-3-1-01 používá přirozená čísla k modelování reálných situací, počítá předměty v daném souboru, vytváří soubory s daným počtem prvků
     - M-3-1-02 čte, zapisuje a porovnává přirozená čísla do 1 000, užívá a zapisuje vztah rovnosti a nerovnosti
@@ -167,32 +189,134 @@
     - M-3-1-05 řeší a tvoří úlohy, ve kterých aplikuje a modeluje osvojené početní operace
 
 - **Matematika a její aplikace** - Závislosti, vztahy a práce s daty - 1. období
+  - Učivo
+    - závislosti a jejich vlastnosti
+    - diagramy, grafy, tabulky, jízdní řády
   - Očekávané výstupy
     - M-3-2-01 orientuje se v čase, provádí jednoduché převody jednotek času
     - M-3-2-02 popisuje jednoduché závislosti z praktického života
     - M-3-2-03 doplňuje tabulky, schémata, posloupnosti čísel
 
 - **Matematika a její aplikace** - Geometrie v rovině a prostoru - 1. období
+  - Učivo
+    - základní útvary v rovině – lomená čára, přímka, polopřímka, úsečka, čtverec, kružnice, obdélník, trojúhelník, kruh, čtyřúhelník, mnohoúhelník
+    - základní útvary v prostoru – kvádr, krychle, jehlan, koule, kužel, válec
+    - délka úsečky; jednotky délky a jejich převody
+    - obvod a obsah obrazce
+    - vzájemná poloha dvou přímek v rovině
+    - osově souměrné útvary
   - Očekávané výstupy
     - M-3-3-01 rozezná, pojmenuje, vymodeluje a popíše základní rovinné útvary a jednoduchá tělesa; nachází v realitě jejich reprezentaci
     - M-3-3-02 porovnává velikost útvarů, měří a odhaduje délku úsečky
     - M-3-3-03 rozezná a modeluje jednoduché souměrné útvary v rovině
 
 - **Informační a komunikační technologie** - Základy práce s počítačem - 1. a 2. období
+  - Učivo
+    -  základní pojmy informační činnosti – informace, informační zdroje, informační instituce
+    - struktura, funkce a popis počítače a přídavných zařízení
+    - operační systémy a jejich základní funkce
+    - seznámení s formáty souborů (doc, gif)
+    - multimediální využití počítače
+    - jednoduchá údržba počítače, postupy při běžných problémech s hardwarem a softwarem
+    - zásady bezpečnosti práce a prevence zdravotních rizik spojených s dlouhodobým využíváním výpočetní techniky
   - Očekávané výstupy
     - ICT-5-1-01 využívá základní standardní funkce počítače a jeho nejběžnější periferie
     - ICT-5-1-02 respektuje pravidla bezpečné práce s hardwarem i softwarem a postupuje poučeně v případě jejich závady
     - ICT-5-1-03 chrání data před poškozením, ztrátou a zneužitím
 
 - **Informační a komunikační technologie** - Vyhledávání informací a komunikace - 1. a 2. období
+  - Učivo
+    - společenský tok informací (vznik, přenos, transformace, zpracování, distribuce informací)
+    - základní způsoby komunikace (e-mail, chat, telefonování)
+    - metody a nástroje vyhledávání informací
+    - formulace požadavku při vyhledávání na internetu, vyhledávací atributy
   - Očekávané výstupy
     - ICT-5-2-01 při vyhledávání informací na internetu používá jednoduché a vhodné cesty
     - ICT-5-2-02 vyhledává informace na portálech, v knihovnách a databázích
     - ICT-5-2-03 komunikuje pomocí internetu či jiných běžných komunikačních zařízení
 
 - **Informační a komunikační technologie** - Zpracování a využití informací - 1. a 2. období
+  - Učivo
+    -  základní funkce textového a grafického editoru
   - Očekávané výstupy
     - ICT-5-3-01 pracuje s textem a obrázkem v textovém a grafickém editoru
+
+- **Úmění a kultura** - Hudební výchova - 1. období
+  - Učivo
+    - Vokální činnosti
+      - pěvecký a mluvní projev – pěvecké dovednosti (dýchání, výslovnost, nasazení a tvorba tónu, dynamicky odlišený zpěv), hlasová hygiena, rozšiřování hlasového rozsahu
+      - hudební rytmus – realizace písní ve 2/4, 3/4 a 4/4 taktu
+      - dvojhlas a vícehlas – prodleva, kánon, lidový dvojhlas apod.
+      - intonace, vokální improvizace – diatonické postupy v durových a mollových tóninách (V., III. a I. stupeň, volné nástupy VIII. a spodního V. stupně apod.), hudební hry (ozvěna, otázka–odpověď apod.)
+      - záznam vokální hudby – zachycení melodie písně pomocí jednoduchého grafického vyjádření (např. linky), nota jako grafický znak pro tón, zápis rytmu jednoduché písně, notový zápis jako opora při realizaci písně
+    - Instrumentální činnosti
+      - hra na hudební nástroje – reprodukce motivů, témat, jednoduchých skladbiček pomocí jednoduchých hudebních nástrojů z Orffova instrumentáře, zobcových fléten, keyboardů apod.
+      - rytmizace, melodizace a stylizace, hudební improvizace – tvorba předeher, meziher a doher s využitím tónového materiálu písně, hudební doprovod (akcentace těžké doby v rytmickém doprovodu, ostinato, prodleva), hudební hry (ozvěna, otázka–odpověď), jednodílná písňová forma (a–b)
+      - záznam instrumentální melodie – čtení a zápis rytmického schématu jednoduchého motivku či tématu instrumentální skladby, využití notačních programů
+    - Hudebně pohybové činnosti
+      - taktování, pohybový doprovod znějící hudby – dvoudobý, třídobý a čtyřdobý takt, taneční hry se zpěvem, jednoduché lidové tance
+      - pohybové vyjádření hudby a reakce na změny v proudu znějící hudby – pantomima a pohybová improvizace s využitím tanečních kroků
+      - orientace v prostoru – utváření pohybové paměti, reprodukce pohybů prováděných při tanci či pohybových hrách
+    - Poslechové činnosti
+      - kvality tónů – délka, síla, barva, výška
+      - vztahy mezi tóny – souzvuk, akord
+      - hudební výrazové prostředky a hudební prvky s výrazným sémantickým nábojem – rytmus, melodie, harmonie, barva, kontrast a gradace, pohyb melodie (melodie vzestupná a sestupná), zvukomalba, metrické, rytmické, dynamické, harmonické změny v hudebním proudu
+      - hudba vokální, instrumentální, vokálně instrumentální, lidský hlas a hudební nástroj
+      - hudební styly a žánry – hudba taneční, pochodová, ukolébavka apod.
+      - hudební formy – malá písňová forma, velká písňová forma, rondo, variace
+      - interpretace hudby – slovní vyjádření (jaká je to hudba a proč je taková)
+  - Očekávané výstupy
+    - HV-3-1-01 zpívá na základě svých dispozic intonačně čistě a rytmicky přesně v jednohlase
+    - HV-3-1-02 rytmizuje a melodizuje jednoduché texty, improvizuje v rámci nejjednodušších hudebních forem
+    - HV-3-1-03 využívá jednoduché hudební nástroje k doprovodné hře
+    - HV-3-1-04 reaguje pohybem na znějící hudbu, pohybem vyjadřuje metrum, tempo, dynamiku, směr melodie
+    - HV-3-1-05 rozlišuje jednotlivé kvality tónů, rozpozná výrazné tempové a dynamické změny v proudu znějící hudby
+    - HV-3-1-06 rozpozná v proudu znějící hudby některé hudební nástroje, odliší hudbu vokální, instrumentální a vokálně instrumentální
+
+- **Úmění a kultura** - Výtvarná výchova - 1. období
+  - Učivo
+  - Očekávané výstupy
+
+- **Člověk a zdraví** - Tělesná výchova - 1. období
+  - Učivo
+  - Očekávané výstupy
+  
+- **Člověk a svět práce** - Práce s drobným materiálem - 1. období
+  - Učivo
+    - vlastnosti materiálu (přírodniny, modelovací hmota, papír a karton, textil, drát, fólie aj.)
+    - pracovní pomůcky a nástroje – funkce a využití
+    - jednoduché pracovní operace a postupy, organizace práce
+    - lidové zvyky, tradice, řemesla
+  - Očekávané výstupy
+    - ČSP-3-1-01 vytváří jednoduchými postupy různé předměty z tradičních i netradičních materiálů
+    - ČSP-3-1-02 pracuje podle slovního návodu a předlohy
+    
+- **Člověk a svět práce** - Konstrukční činnosti - 1. období
+  - Učivo
+    - stavebnice (plošné, prostorové, konstrukční), sestavování modelů
+    - práce s návodem, předlohou, jednoduchým náčrtem
+  - Očekávané výstupy
+    - ČSP-3-2-01 zvládá elementární dovednosti a činnosti při práci se stavebnicemi
+
+- **Člověk a svět práce** - Pěstitelské práce - 1. období
+  - Učivo
+    - základní podmínky pro pěstování rostlin, půda a její zpracování, výživa rostlin, osivo
+    - pěstování rostlin ze semen v místnosti, na zahradě (okrasné rostliny, léčivky, koření, zelenina aj.)
+    - pěstování pokojových rostlin
+    - rostliny jedovaté, rostliny jako drogy, alergie
+  - Očekávané výstupy
+    - ČSP-3-3-01 provádí pozorování přírody, zaznamená a zhodnotí výsledky pozorování
+    - ČSP-3-3-02 pečuje o nenáročné rostliny
+
+- **Člověk a svět práce** - Příprava pokrmů - 1. období
+  - Učivo
+    - základní vybavení kuchyně
+    - výběr, nákup a skladování potravin
+    - jednoduchá úprava stolu, pravidla správného stolování
+    - technika v kuchyni – historie a význam
+  - Očekávané výstupy
+    - ČSP-3-4-01 připraví tabuli pro jednoduché stolování
+    - ČSP-3-4-02 chová se vhodně při stolování
 
 ### 2. období 1. stupně (4. a 5. ročník, cca 10-11 let)
 
@@ -318,7 +442,40 @@
   - Očekávané výstupy
     - ICT-5-3-01 pracuje s textem a obrázkem v textovém a grafickém editoru
 
-### Očekávané výstupy po 5. ročníku
+- **Úmění a kultura** - Hudební výchova - 2. období
+  - Očekávané výstupy
+    - HV-5-1-01 zpívá na základě svých dispozic intonačně čistě a rytmicky přesně v jednohlase či dvojhlase v durových i mollových tóninách a při zpěvu využívá získané pěvecké dovednosti
+    - HV-5-1-02 realizuje podle svých individuálních schopností a dovedností (zpěvem, hrou, tancem, doprovodnou hrou) jednoduchou melodii či píseň zapsanou pomocí not
+    - HV-5-1-03 využívá na základě svých hudebních schopností a dovedností jednoduché, popřípadě složitější hudební nástroje k doprovodné hře i k reprodukci jednoduchých motivů skladeb a písní
+    - HV-5-1-04 rozpozná hudební formu jednoduché písně či skladby
+    - HV-5-1-05 vytváří v rámci svých individuálních dispozic jednoduché předehry, mezihry a dohry a provádí elementární hudební improvizace
+    - HV-5-1-06 rozpozná v proudu znějící hudby některé z užitých hudebních výrazových prostředků, upozorní na metrorytmické, tempové, dynamické i zřetelné harmonické změny
+    - HV-5-1-07 ztvárňuje hudbu pohybem s využitím tanečních kroků, na základě individuálních schopností a dovedností vytváří pohybové improvizace
+    
+- **Úmění a kultura** - Výtvarná výchova - 2. období
+  - Očekávané výstupy
+    - VV-5-1-01 při vlastních tvůrčích činnostech pojmenovává prvky vizuálně obrazného vyjádření; porovnává je na základě vztahů (světlostní poměry, barevné kontrasty, proporční vztahy a jiné)
+    - VV-5-1-02 užívá a kombinuje prvky vizuálně obrazného vyjádření ve vztahu k celku: v plošném vyjádření linie a barevné plochy; v objemovém vyjádření modelování a skulpturální postup; v prostorovém vyjádření uspořádání prvků ve vztahu k vlastnímu tělu i jako nezávislý model
+    - VV-5-1-03 při tvorbě vizuálně obrazných vyjádření se vědomě zaměřuje na projevení vlastních životních zkušeností i na tvorbu vyjádření, která mají komunikační účinky pro jeho nejbližší sociální vztahy
+    - VV-5-1-04 nalézá vhodné prostředky pro vizuálně obrazná vyjádření vzniklá na základě vztahu zrakového vnímání k vnímání dalšími smysly; uplatňuje je v plošné, objemové i prostorové tvorbě
+    - VV-5-1-05 osobitost svého vnímání uplatňuje v přístupu k realitě, k tvorbě a interpretaci vizuálně obrazného vyjádření; pro vyjádření nových i neobvyklých pocitů a prožitků svobodně volí a kombinuje prostředky (včetně prostředků a postupů současného výtvarného umění)
+    - VV-5-1-06 porovnává různé interpretace vizuálně obrazného vyjádření a přistupuje k nim jako ke zdroji inspirace
+    - VV-5-1-07 nalézá a do komunikace v sociálních vztazích zapojuje obsah vizuálně obrazných vyjádření, která samostatně vytvořil, vybral či upravil
+    
+- **Člověk a zdraví** - Tělesná výchova - 2. období
+  - Očekávané výstupy
+    - TV-5-1-01 podílí se na realizaci pravidelného pohybového režimu; uplatňuje kondičně zaměřené činnosti; projevuje přiměřenou samostatnost a vůli po zlepšení úrovně své zdatnosti
+    - TV-5-1-02 zařazuje do pohybového režimu korektivní cvičení, především v souvislosti s jednostrannou zátěží nebo vlastním svalovým oslabením
+    - TV-5-1-03 zvládá v souladu s individuálními předpoklady osvojované pohybové dovednosti; vytváří varianty osvojených pohybových her
+    - TV-5-1-04 uplatňuje pravidla hygieny a bezpečného chování v běžném sportovním prostředí; adekvátně reaguje v situaci úrazu spolužáka
+    - TV-5-1-05 jednoduše zhodnotí kvalitu pohybové činnosti spolužáka a reaguje na pokyny k vlastnímu provedení pohybové činnosti
+    - TV-5-1-06 jedná v duchu fair play: dodržuje pravidla her a soutěží, pozná a označí zjevné přestupky proti pravidlům a adekvátně na ně reaguje; respektuje při pohybových činnostech opačné pohlaví
+    - TV-5-1-07 užívá při pohybové činnosti základní osvojované tělocvičné názvosloví; cvičí podle jednoduchého nákresu, popisu cvičení
+    - TV-5-1-08 zorganizuje nenáročné pohybové činnosti a soutěže na úrovni třídy
+    - TV-5-1-09 změří základní pohybové výkony a porovná je s předchozími výsledky
+    - TV-5-1-10 orientuje se v informačních zdrojích o pohybových aktivitách a sportovních akcích ve škole i v místě bydliště; samostatně získá potřebné informace
+
+- **Člověk a svět práce** - Tělesná výchova - 2. období
 
 ### 2. stupeň (6. až 9. ročník, cca 12-15 let)
 
@@ -979,4 +1136,36 @@
     - Z-9-7-02 aplikuje v terénu praktické postupy při pozorování, zobrazování a hodnocení krajiny
     - Z-9-7-03 uplatňuje v praxi zásady bezpečného pohybu a pobytu v krajině, uplatňuje v modelových situacích zásady bezpečného chování a jednání při mimořádných událostech
 
-### Očekávané výstupy po 9. ročníku
+- **Úmění a kultura** - *Hudební výchova* - Terénní geografická výuka, praxe a aplikace
+  - Učivo
+    - Vokální činnosti
+      - pěvecký a mluvní projev – rozšiřování hlasového rozsahu, hlasová hygiena, hlasová nedostatečnost a některé způsoby její nápravy, mutace, vícehlasý a jednohlasý zpěv, deklamace, techniky vokálního projevu (scat, falzet apod.), jejich individuální využití při zpěvu i při společných vokálně instrumentálních aktivitách
+      - intonace a vokální improvizace – diatonické postupy v durových a mollových tóninách, improvizace jednoduchých hudebních forem
+      - hudební rytmus – odhalování vzájemných souvislostí rytmu řeči a hudby, využívání rytmických zákonitostí při vokálním projevu
+      - orientace v notovém záznamu vokální skladby – notový zápis jako opora při realizaci písně či složitější vokální nebo vokálně instrumentální skladby
+      - rozvoj hudebního sluchu a hudební představivosti – reprodukce tónů, převádění melodií z nezpěvné do zpěvné polohy, zachycování rytmu, popřípadě i melodie zpívané (hrané) písně pomocí grafického (notového) záznamu
+      - reflexe vokálního projevu – vlastní vokální projev a vokální projev ostatních, hledání možností nápravy hlasové   nedostatečnosti (transpozice melodie, využití jiné hudební činnosti)
+    - Instrumentální činnosti
+      - hra na hudební nástroje – nástrojová reprodukce melodií (motivků, témat, písní, jednoduchých skladeb), hra a tvorba doprovodů s využitím nástrojů Orffova instrumentáře, keyboardů a počítače, nástrojová improvizace (jednoduché hudební formy)
+      - záznam hudby – noty, notační programy (např. Capella, Finale, Sibelius) a další způsoby záznamu hudby
+      - vyjadřování hudebních i nehudebních představ a myšlenek pomocí hudebního nástroje – představy rytmické, melodické, tempové, dynamické, formální
+      - tvorba doprovodů pro hudebně dramatické projevy
+    - Hudebně pohybové činnosti
+      - pohybový doprovod znějící hudby – taktování, taneční kroky, vlastní pohybové ztvárnění
+      - pohybové vyjádření hudby v návaznosti na sémantiku hudebního díla – pantomima, improvizace
+      - pohybové reakce na změny v proudu znějící hudby – tempové, dynamické, rytmicko-metrické, harmonické
+      - orientace v prostoru – rozvoj pohybové pamětí, reprodukce pohybů prováděných při tanci či pohybových hrách
+    - Poslechové činnosti
+      - orientace v hudebním prostoru a analýza hudební skladby – postihování hudebně výrazových prostředků, významné sémantické prvky užité ve skladbě (zvukomalba, dušemalba, pohyb melodie, pravidelnost a nepravidelnost hudební formy) a jejich význam pro pochopení hudebního díla
+      - hudební dílo a jeho autor – hudební skladba v kontextu s jinými hudebními i nehudebními díly, dobou vzniku, životem autora, vlastními zkušenostmi (inspirace, epigonství, kýč, módnost a modernost, stylová provázanost)
+      - hudební styly a žánry – chápání jejich funkcí vzhledem k životu jedince i společnosti, kulturním tradicím a zvykům
+      - interpretace znějící hudby – slovní charakterizování hudebního díla (slohové a stylové zařazení apod.), vytváření vlastních soudů a preferencí
+  - Očekávané výstupy
+    - HV-9-1-01 využívá své individuální hudební schopnosti a dovednosti při hudebních aktivitách
+    - HV-9-1-02 uplatňuje získané pěvecké dovednosti a návyky při zpěvu i při mluvním projevu v běžném životě; zpívá dle svých dispozic intonačně čistě a rytmicky přesně v jednohlase i vícehlase, dokáže ocenit kvalitní vokální projev druhého
+    - HV-9-1-03 reprodukuje na základě svých individuálních hudebních schopností a dovedností různé motivy, témata i části skladeb, vytváří a volí jednoduché doprovody, provádí jednoduché hudební improvizace
+    - HV-9-1-04 realizuje podle svých individuálních schopností a dovedností písně a skladby různých stylů a žánrů
+    - HV-9-1-05 rozpozná některé z tanců různých stylových období, zvolí vhodný typ hudebně pohybových prvků k poslouchané hudbě a na základě individuálních hudebních schopností a pohybové vyspělosti předvede jednoduchou pohybovou vazbu
+    - HV-9-1-06 orientuje se v proudu znějící hudby, vnímá užité hudebně výrazové prostředky a charakteristické sémantické prvky, chápe jejich význam v hudbě a na základě toho přistupuje k hudebnímu dílu jako k logicky utvářenému celku
+    - HV-9-1-07 zařadí na základě individuálních schopností a získaných vědomostí slyšenou hudbu do stylového období a porovnává ji z hlediska její slohové a stylové příslušnosti s dalšími skladbami
+    - HV-9-1-08 vyhledává souvislosti mezi hudbou a jinými druhy umění
