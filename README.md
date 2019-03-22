@@ -255,13 +255,72 @@
 
 ### 2. stupeň (6. až 9. ročník, cca 12-15 let)
 - **Jazyk a jazyková komunikace**
-TODO matematika
-TODO informatika
-TODO dějepis
 
 - **Matematika a její aplikace**
 
 - **Informační a komunikační technologie** 
+
+- **Člověk a společnost** - *Dějepis* - Člověk v dějinách
+  - D-9-1-01 uvede konkrétní příklady důležitosti a potřebnosti dějepisných poznatků
+  - D-9-1-02 uvede příklady zdrojů informací o minulosti; pojmenuje instituce, kde jsou tyto zdroje shromažďovány
+  - D-9-1-03 orientuje se na časové ose a v historické mapě, řadí hlavní historické epochy v chronologickém sledu
+
+- **Člověk a společnost** - *Dějepis* - Počátky lidské společnosti
+  - D-9-2-01 charakterizuje život pravěkých sběračů a lovců, jejich materiální a duchovní kulturu
+  - D-9-2-02 objasní význam zemědělství, dobytkářství a zpracování kovů pro lidskou společnost
+  - D-9-2-03 uvede příklady archeologických kultur na našem území
+
+- **Člověk a společnost** - *Dějepis* - Nejstarší civilizace, kořeny evropské kultury
+  - D-9-3-01 rozpozná souvislost mezi přírodními podmínkami a vznikem prvních velkých zemědělských civilizací
+  - D-9-3-02 uvede nejvýznamnější typy památek, které se staly součástí světového kulturního dědictví
+  - D-9-3-03 demonstruje na konkrétních příkladech přínos antické kultury a uvede osobnosti antiky důležité pro evropskou civilizaci, zrod křesťanství a souvislost s judaismem
+  - D-9-3-04 porovná formy vlády a postavení společenských skupin v jednotlivých státech a vysvětlí podstatu antické demokracie
+  
+- **Člověk a společnost** - *Dějepis* - Křesťanství a středověká Evropa
+  - D-9-4-01 popíše podstatnou změnu evropské situace, která nastala v důsledku příchodu nových etnik, christianizace a vzniku států
+  - D-9-4-02 porovná základní rysy západoevropské, byzantsko-slovanské a islámské kulturní oblasti
+  - D-9-4-03 objasní situaci Velkomoravské říše a vnitřní vývoj českého státu a postavení těchto státních útvarů v evropských souvislostech
+  - D-9-4-04 vymezí úlohu křesťanství a víry v životě středověkého člověka, konflikty mezi světskou a církevní mocí, vztah křesťanství ke kacířství a jiným věroukám
+  - D-9-4-05 ilustruje postavení jednotlivých vrstev středověké společnosti, uvede příklady románské a gotické kultury
+
+- **Člověk a společnost** - *Dějepis* - Objevy a dobývání, počátky nové doby
+  - D-9-5-01 vysvětlí znovuobjevení antického ideálu člověka, nové myšlenky žádající reformu církve včetně reakce církve na tyto požadavky
+  - D-9-5-02 vymezí význam husitské tradice pro český politický a kulturní život
+  - D-9-5-03 popíše a demonstruje průběh zámořských objevů, jejich příčiny a důsledky
+  - D-9-5-04 objasní postavení českého státu v podmínkách Evropy rozdělené do řady mocenských a náboženských center a jeho postavení uvnitř habsburské monarchie
+  - D-9-5-05 objasní příčiny a důsledky vzniku třicetileté války a posoudí její důsledky
+  - D-9-5-06 na příkladech evropských dějin konkretizuje absolutismus, konstituční monarchie, parlamentarismus
+  - D-9-5-07 rozpozná základní znaky jednotlivých kulturních stylů a uvede jejich představitele a příklady významných kulturních památek
+
+- **Člověk a společnost** - *Dějepis* - Modernizace společnosti
+  - Učivo
+    - Velká francouzská revoluce a napoleonské období, jejich vliv na Evropu a svět; vznik USA
+    - industrializace a její důsledky pro společnost; sociální otázka
+    - národní hnutí velkých a malých národů; utváření novodobého českého národa
+    - revoluce 19. století jako prostředek řešení politických, sociálních a národnostních problémů
+    - politické proudy (konzervativismus, liberalismus, demokratismus, socialismus), ústava, politické strany, občanská práva
+    - kulturní rozrůzněnost doby
+    - konflikty mezi velmocemi, kolonialismus
+  - Kompetence
+    - D-9-6-01 vysvětlí podstatné ekonomické, sociální, politické a kulturní změny ve vybraných zemích a u nás, které charakterizují modernizaci společnosti
+    - D-9-6-02 objasní souvislost mezi událostmi francouzské revoluce a napoleonských válek na jedné straně a rozbitím starých společenských struktur v Evropě na straně druhé
+    - D-9-6-03 porovná jednotlivé fáze utváření novodobého českého národa v souvislosti s národními hnutími vybraných evropských národů
+    D-9-6-04 charakterizuje emancipační úsilí významných sociálních skupin; uvede požadavky formulované ve vybraných evropských revolucích
+    - D-9-6-05 na vybraných příkladech demonstruje základní politické proudy
+    - D-9-6-06 vysvětlí rozdílné tempo modernizace a prohloubení nerovnoměrnosti vývoje jednotlivých částí Evropy a světa včetně důsledků, ke kterým tato nerovnoměrnost vedla; charakterizuje soupeření mezi velmocemi a vymezí význam kolonií
+
+- **Člověk a společnost** - *Dějepis* - Moderní doba
+  - D-9-7-01 na příkladech demonstruje zneužití techniky ve světových válkách a jeho důsledky
+  - D-9-7-02 rozpozná klady a nedostatky demokratických systémů
+  - D-9-7-03 charakterizuje jednotlivé totalitní systémy, příčiny jejich nastolení v širších ekonomických a politických souvislostech a důsledky jejich existence pro svět; rozpozná destruktivní sílu totalitarismu a vypjatého nacionalismu
+  - D-9-7-04 na příkladech vyloží antisemitismus, rasismus a jejich nepřijatelnost z hlediska lidských práv
+  - D-9-7-05 zhodnotí postavení Československa v evropských souvislostech a jeho vnitřní sociální, politické, hospodářské a kulturní prostředí
+  
+- **Člověk a společnost** - *Dějepis* - Rozdělený a integrující se svět
+  - D-9-8-01 vysvětlí příčiny a důsledky vzniku bipolárního světa; uvede příklady střetávání obou bloků
+  - D-9-8-02 vysvětlí a na příkladech doloží mocenské a politické důvody euroatlantické hospodářské a vojenské spolupráce
+  - D-9-8-03 posoudí postavení rozvojových zemí
+  - D-9-8-04 prokáže základní orientaci v problémech současného světa
 
 - **Člověk a společnost** - *Výchova k občanství* - Člověk ve společnosti
   - VO-9-1-01 objasní účel důležitých symbolů našeho státu a způsoby jejich používání
@@ -276,10 +335,10 @@ TODO dějepis
   - VO-9-1-10 posoudí a na příkladech doloží přínos spolupráce lidí při řešení konkrétních úkolů a dosahování některých cílů v rodině, ve škole, v obci
 
 - **Člověk a společnost** - *Výchova k občanství* - Člověk jako jedinec
-- VO-9-2-01 objasní, jak může realističtější poznání a hodnocení vlastní osobnosti a potenciálu pozitivně ovlivnit jeho rozhodování, vztahy s druhými lidmi i kvalitu života
-- VO-9-2-02 posoudí vliv osobních vlastností na dosahování individuálních i společných cílů, objasní význam vůle při dosahování cílů a překonávání překážek
-- VO-9-2-03 rozpoznává projevy záporných charakterových vlastností u sebe i u druhých lidí, kriticky hodnotí a vhodně koriguje své chování a jednání
-- VO-9-2-04 popíše, jak lze usměrňovat a kultivovat charakterové a volní vlastnosti, rozvíjet osobní přednosti, překonávat osobní nedostatky a pěstovat zdravou sebedůvěru
+  - VO-9-2-01 objasní, jak může realističtější poznání a hodnocení vlastní osobnosti a potenciálu pozitivně ovlivnit jeho rozhodování, vztahy s druhými lidmi i kvalitu života
+  - VO-9-2-02 posoudí vliv osobních vlastností na dosahování individuálních i společných cílů, objasní význam vůle při dosahování cílů a překonávání překážek
+  - VO-9-2-03 rozpoznává projevy záporných charakterových vlastností u sebe i u druhých lidí, kriticky hodnotí a vhodně koriguje své chování a jednání
+  - VO-9-2-04 popíše, jak lze usměrňovat a kultivovat charakterové a volní vlastnosti, rozvíjet osobní přednosti, překonávat osobní nedostatky a pěstovat zdravou sebedůvěru
 
 - **Člověk a společnost** - *Výchova k občanství* - Člověk, stát a hospodářství
   - VO-9-3-01 rozlišuje a porovnává různé formy vlastnictví, včetně duševního vlastnictví, a způsoby jejich ochrany, uvede příklady
