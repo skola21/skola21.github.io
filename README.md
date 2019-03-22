@@ -57,29 +57,69 @@
 
 ### 1. období 1. stupně (1. až 3. ročník, cca 6-9 let)
 - **Člověk a jeho svět** - *Místo, kde žijeme* - 1. období
+  - Učivo
+    - domov – prostředí domova, orientace v místě bydliště
+    - škola – prostředí školy, činnosti ve škole, okolí školy, bezpečná cesta do školy; riziková místa a situace
+    - obec (město), místní krajina – její části, poloha v krajině, minulost a současnost obce (města), význačné budovy, dopravní síť
+    - okolní krajina (místní oblast, region) – zemský povrch a jeho tvary, vodstvo na pevnině, rozšíření půd, rostlinstva a živočichů, vliv krajiny na život lidí, působení lidí na krajinu a životní prostředí, orientační body a linie, světové strany
+    - regiony ČR – Praha a vybrané oblasti ČR, surovinové zdroje, výroba, služby a obchod
+    - naše vlast – domov, krajina, národ, základy státního zřízení a politického systému ČR, státní správa a samospráva, státní symboly, armáda ČR
+    - Evropa a svět – kontinenty, evropské státy, EU, cestování
+    - mapy obecně zeměpisné a tematické – obsah, grafika, vysvětlivky
   - Očekávané výstupy
     - ČJS-3-1-01 vyznačí v jednoduchém plánu místo svého bydliště a školy, cestu na určené místo a rozliší možná nebezpečí v nejbližším okolí
     - ČJS-3-1-02 začlení svou obec (město) do příslušného kraje a obslužného centra ČR, pozoruje a popíše změny v nejbližším okolí, obci (městě)
     - ČJS-3-1-03 rozliší přírodní a umělé prvky v okolní krajině a vyjádří různými způsoby její estetické hodnoty a rozmanitost
 
 - **Člověk a jeho svět** - *Lidé kolem nás* - 1. období
+  - Učivo
+    - rodina – postavení jedince v rodině, role členů rodiny, příbuzenské a mezigenerační vztahy, život a funkce rodiny, fyzická a duševní práce, zaměstnání
+    - soužití lidí – mezilidské vztahy, komunikace, principy demokracie; obchod, firmy, zájmové spolky, politické strany, církve, pomoc nemocným, sociálně slabým, společný „evropský dům“
+    - chování lidí – vlastnosti lidí, pravidla slušného chování – ohleduplnost, etické zásady, zvládání vlastní emocionality; rizikové situace; rizikové chování, předcházení konfliktům
+    - právo a spravedlnost – základní lidská práva a práva dítěte, práva a povinnosti žáků školy, protiprávní jednání a korupce, právní ochrana občanů a majetku včetně nároku na reklamaci, soukromého vlastnictví, duševních hodnot
+    - vlastnictví – soukromé, veřejné, osobní, společné; hmotný a nehmotný majetek; rozpočet, příjmy a výdaje domácnosti; hotovostní a bezhotovostní forma peněz, způsoby placení; banka jako správce peněz, úspory, půjčky
+    - kultura – podoby a projevy kultury, kulturní instituce, masová kultura a subkultura
+    - základní globální problémy – významné sociální problémy, problémy konzumní společnosti, nesnášenlivost mezi lidmi, globální problémy přírodního prostředí
   - Očekávané výstupy
     - ČJS-3-2-01 rozlišuje blízké příbuzenské vztahy v rodině, role rodinných příslušníků a vztahy mezi nimi, projevuje toleranci k přirozeným odlišnostem spolužáků i jiných lidí, jejich přednostem i nedostatkům
     - ČJS-3-2-02 odvodí význam a potřebu různých povolání a pracovních činností
 
 - **Člověk a jeho svět** - *Lidé a čas* - 1. období
+  - Učivo
+    - orientace v čase a časový řád – určování času, čas jako fyzikální veličina, dějiny jako časový sled událostí, kalendáře, letopočet, generace, denní režim, roční období
+    - současnost a minulost v našem životě – proměny způsobu života, bydlení, předměty denní potřeby, průběh lidského života, státní svátky a významné dny
+    - regionální památky – péče o památky, lidé a obory zkoumající minulost
+    - báje, mýty, pověsti – minulost kraje a předků, domov, vlast, rodný kraj
   - Očekávané výstupy
     - ČJS-3-3-01 využívá časové údaje při řešení různých situací v denním životě, rozlišuje děj v minulosti, přítomnosti a budoucnosti
     - ČJS-3-3-02 pojmenuje některé rodáky, kulturní či historické památky, významné události regionu, interpretuje některé pověsti nebo báje spjaté s místem, v němž žije
     - ČJS-3-3-03 uplatňuje elementární poznatky o sobě, o rodině a činnostech člověka, o lidské společnosti, soužití, zvycích a o práci lidí; na příkladech porovnává minulost a současnost
 
 - **Člověk a jeho svět** - *Rozmanitost přírody* - 1. období
+  - Učivo
+    - látky a jejich vlastnosti – třídění látek, změny látek a skupenství, vlastnosti, porovnávání látek a měření veličin s praktickým užíváním základních jednotek
+    - voda a vzduch – výskyt, vlastnosti a formy vody, oběh vody v přírodě, vlastnosti, složení, proudění vzduchu, význam pro život
+    - nerosty a horniny, půda – některé hospodářsky významné horniny a nerosty, zvětrávání, vznik půdy a její význam
+    - vesmír a Země – sluneční soustava, den a noc, roční období
+    - rostliny, houby, živočichové – znaky života, životní potřeby a projevy, průběh a způsob života, výživa, stavba těla u některých nejznámějších druhů, význam v přírodě a pro člověka
+    - životní podmínky – rozmanitost podmínek života na Zemi; význam ovzduší, vodstva, půd, rostlinstva a živočišstva na Zemi; podnebí a počasí
+    - rovnováha v přírodě – význam, vzájemné vztahy mezi organismy, základní společenstva
+    - ohleduplné chování k přírodě a ochrana přírody – odpovědnost lidí, ochrana a tvorba životního prostředí, ochrana rostlin a živočichů, likvidace odpadů, živelní pohromy a ekologické katastrofy
+    - rizika v přírodě – rizika spojená s ročními obdobími a sezonními činnostmi; mimořádné události způsobené přírodními vlivy a ochrana před nimi
   - Očekávané výstupy
     - ČJS-3-4-01 pozoruje, popíše a porovná viditelné proměny v přírodě v jednotlivých ročních obdobích
     - ČJS-3-4-02 roztřídí některé přírodniny podle nápadných určujících znaků, uvede příklady výskytu organismů ve známé lokalitě
     - ČJS-3-4-03 provádí jednoduché pokusy u skupiny známých látek, určuje jejich společné a rozdílné vlastnosti a změří základní veličiny pomocí jednoduchých nástrojů a přístrojů
 
 - **Člověk a jeho svět** - *Člověk a jeho zdraví* - 1. období
+  - Učivo
+    - lidské tělo – stavba těla, základní funkce a projevy, životní potřeby člověka, pohlavní rozdíly mezi mužem a ženou, biologické a psychické změny v dospívání, základy lidské reprodukce, vývoj jedince
+    - péče o zdraví – zdravý životní styl, denní režim, správná výživa, výběr a způsoby uchovávání potravin, vhodná skladba stravy, pitný režim; přenosné a nepřenosné nemoci, ochrana před infekcemi přenosnými krví (hepatitida, HIV/AIDS), drobné úrazy a poranění, prevence nemocí a úrazů, první pomoc při drobných poraněních, osobní, intimní a duševní hygiena
+    - partnerství, manželství, rodičovství, základy sexuální výchovy – rodina, vztahy v rodině, partnerské vztahy, osobní vztahy, etická stránka vztahů, etická stránka sexuality
+    - návykové látky, závislosti a zdraví – návykové látky, hrací automaty a počítače, závislost, odmítání návykových látek, nebezpečí komunikace prostřednictvím elektronických médií
+    - osobní bezpečí, krizové situace – vhodná a nevhodná místa pro hru, bezpečné chování v rizikovém prostředí, označování nebezpečných látek; bezpečné chování v silničním provozu, dopravní značky; předcházení rizikovým situacím v dopravě a v dopravních prostředcích (bezpečnostní prvky), šikana, týrání, sexuální a jiné zneužívání, brutalita a jiné formy násilí v médiích
+    - přivolání pomoci v případě ohrožení fyzického a duševního zdraví – služby odborné pomoci, čísla tísňového volání, správný způsob volání na tísňovou linku
+    - mimořádné události a rizika ohrožení s nimi spojená – postup v případě ohrožení (varovný signál, evakuace, zkouška sirén); požáry (příčiny a prevence vzniku požárů, ochrana a evakuace při požáru); integrovaný záchranný systém
   - Očekávané výstupy
     - ČJS-3-5-01 uplatňuje základní hygienické, režimové a jiné zdravotně preventivní návyky s využitím elementárních znalostí o lidském těle; projevuje vhodným chováním a činnostmi vztah ke zdraví
     - ČJS-3-5-02 rozezná nebezpečí různého charakteru, využívá bezpečná místa pro hru a trávení volného času; uplatňuje základní pravidla bezpečného chování účastníka silničního provozu, jedná tak, aby neohrožoval zdraví své a zdraví jiných
