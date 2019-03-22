@@ -50,46 +50,25 @@
 - Čtvrtá fáze - čtení, psaní, základní počty
 
 ## Vzdělávací plán
-### 1. období 1. stupně
-#### 1. ročník, 1. čtvrtletí
-#### 1. ročník, 2. čtvrtletí
-#### 1. ročník, 3. čtvrtletí
-#### 1. ročník, 4. čtvrtletí
-#### 2. ročník, 1. čtvrtletí
-#### 2. ročník, 2. čtvrtletí
-#### 2. ročník, 3. čtvrtletí
-#### 2. ročník, 4. čtvrtletí
-#### 3. ročník, 1. čtvrtletí
-#### 3. ročník, 2. čtvrtletí
-#### 3. ročník, 3. čtvrtletí
-#### 3. ročník, 4. čtvrtletí
-### 2. období 1. stupně
-#### 4. ročník, 1. čtvrtletí
-#### 4. ročník, 2. čtvrtletí
-#### 4. ročník, 3. čtvrtletí
-#### 4. ročník, 4. čtvrtletí
-#### 5. ročník, 1. čtvrtletí
-#### 5. ročník, 2. čtvrtletí
-#### 5. ročník, 3. čtvrtletí
-#### 5. ročník, 4. čtvrtletí
-### 2. stupeň
-#### 6. ročník, 1. čtvrtletí
-#### 6. ročník, 2. čtvrtletí
-#### 6. ročník, 3. čtvrtletí
-#### 6. ročník, 4. čtvrtletí
-#### 7. ročník, 1. čtvrtletí
-#### 7. ročník, 2. čtvrtletí
-#### 7. ročník, 3. čtvrtletí
-#### 7. ročník, 4. čtvrtletí
-#### 8. ročník, 1. čtvrtletí
-#### 8. ročník, 2. čtvrtletí
-#### 8. ročník, 3. čtvrtletí
-#### 8. ročník, 4. čtvrtletí
-#### 9. ročník, 1. čtvrtletí
-#### 9. ročník, 2. čtvrtletí
-#### 9. ročník, 3. čtvrtletí
-#### 9. ročník, 4. čtvrtletí
 
+### 1. období 1. stupně
+- Střední doba kamenná - lovci a sběrači
+
+### 2. období 1. stupně
+- Mladší doba kamenná - neolitická revoluce
+- Doba bronzová
+- Doba železná
+
+### 2. stupeň
+- Starověk (6. ročník)
+- Středověk (6. a 7. ročník)
+- Novověk (7. a 8. ročník)
+- Moderní doba (8. a 9. ročník)
+  - 1. světová válka
+  - Meziváleční období
+  - 2. světová válka
+  - Studená válka
+  - Digitální věk
 
 ## Klíčové kompetence dle RVP
 ŠVP Škola21 naplňuje obsah klíčových kompetencí a cílů vzdělávání dle RVP. Vysvětlení principů realizace:
