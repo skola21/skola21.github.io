@@ -33,6 +33,7 @@
 
 ## Obsah
 - První fáze - 6. až 9. třída ZŠ bez cizích jazyků
+  - RVP: http://www.msmt.cz/file/43792/
 - Druhá fáze - 4. a 5. třída ZŠ bez cizích jazyků
 - Třetí fáze - 1. až 3. třída ZŠ bez cizích jazyků
 - Čtvrtá fáze - čtení, psaní, základní počty
