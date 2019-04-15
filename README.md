@@ -32,6 +32,10 @@
 - Naši studenti dostanou aplikaci bez reklam automaticky
 - Do budoucna umožnit korespondenčním seminářům přijímat řešení skrze cloud, vyhlašovat zadání atp.
 
+## Precist:
+- https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Want-learn-new-skill-Take-some-short-breaks
+- https://en.wikipedia.org/wiki/Spaced_repetition
+
 ## Plán tvorby obsahu
 - První fáze - 6. až 9. třída ZŠ bez cizích jazyků
   - RVP: http://www.msmt.cz/file/43792/
